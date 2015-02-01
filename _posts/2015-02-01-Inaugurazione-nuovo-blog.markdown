@@ -7,3 +7,5 @@ categories: jekyll blog
 tags: new
 ---
 Hello world this is my new post
+
+{% gist 5555251 %}
