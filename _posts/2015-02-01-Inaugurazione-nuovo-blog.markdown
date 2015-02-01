@@ -8,4 +8,4 @@ tags: new
 ---
 Hello world this is my new post
 
-{% gist 5555251 %}
+{% gist a1dc25e9419ea8cea989 %}   
