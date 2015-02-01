@@ -1,0 +1,34 @@
+# Site settings
+title: Gabriele Castellani's blog
+email: gabrielecastellani at hotmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gabrielecastellani.it" # the base hostname & protocol for your site
+twitter_username: gabrielec
+github_username:  gabrielecastellani
+
+
+# Github repositories
+github_user: imperugo
+github_repo_url: https://github.com/GabrieleCastellani/gabrielecastellani.github.io
+
+
+#
+# Jekyll Settings
+#
+markdown: redcarpet
+permalink: /archive/:year/:month/:day/:title/
+paginate: 10
+paginate_path: "page/:num"
+category_dir: categories
+
+highlighter: pygments
+
+
+gems:
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap

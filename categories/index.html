@@ -1,0 +1,14 @@
+---
+layout: page
+title: Tags
+redirect_from: 
+  - /categories/archive/ajax/
+---
+
+{% for cat in site.categories %}
+<a name="{{ cat[0] }}"></a>
+<span class="badge">{{ cat[0] }}</span>
+  {% for post in cat[1] %}
+<li><a data-event-label="Post" data-event-category="Category-It"  href="{{ post.url | remove:'.html' }}">{{ post.title }}</a> ({{ post.date | date_to_string }})</li>
+  {% endfor %}
+{% endfor %}
