@@ -22,6 +22,17 @@
         color: $grey-color-dark;
     }
 }
+@media only screen 
+and (max-width : 600px) {
+/* Styles */
+            .hide-on-mobile{
+            clear: both;
+            display: none;
+        }
+}
+
+
+
 
 .site-nav {
     float: right;
@@ -69,10 +80,6 @@
             }
         }
 
-        .hide-on-mobile{
-            clear: both;
-            display: none;
-        }
         .trigger {
             clear: both;
             display: none;
