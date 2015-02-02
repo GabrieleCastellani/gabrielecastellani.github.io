@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Top
-permalink: /top/
+title: Links
+permalink: /links/
 ---
 
 Top 
