@@ -1,0 +1,1147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<blog root-url="http://blogs.ugidotnet.org/gabrielc/" date-created="2015-02-03T14:31:00" xmlns="http://www.blogml.com/2006/09/BlogML" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <title type="text"><![CDATA[Gabriele Castellani [MS]]]></title>
+  <sub-title type="text"><![CDATA[Reloaded]]></sub-title>
+  <authors>
+    <author id="1" date-created="2011-03-14T18:20:17" date-modified="2011-03-14T18:20:17" approved="true" email="gabrielc@microsoft.com">
+      <title type="text"><![CDATA[Gabriele Castellani [MS]]]></title>
+    </author>
+  </authors>
+  <extended-properties>
+    <property name="CommentModeration" value="Disabled" />
+  </extended-properties>
+  <categories>
+    <category id="1" date-created="2015-02-03T14:31:00" date-modified="2015-02-03T14:31:00" approved="true" parentref="1">
+      <title type="text"><![CDATA[WebMatrix]]></title>
+    </category>
+  </categories>
+  <posts>
+    <post id="1" date-created="2004-09-08T12:34:00" date-modified="2004-09-08T12:34:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/09/08/2165.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Best Practices Analyzer Tool for Microsoft SQL Server 2000 1.0]]></title>
+      <content type="text"><![CDATA[<H1 class=pageHeading><FONT size=2>Stasera lo provo</FONT></H1>
+<P><FONT size=2><FONT size=3>Microsoft SQL Server Best Practices Analyzer is a database management tool that lets you verify the implementation of common Best Practices. These best practices typically relate to the usage and administration aspects of SQL Server databases and ensure that your SQL Servers are managed and operated well.</FONT></P>
+<P>&nbsp;</P>
+<P><A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=B352EB1F-D3CA-44EE-893E-9E07339C1F22&amp;displaylang=en"><FONT color=#0000ff>http://www.microsoft.com/downloads/details.aspx?FamilyId=B352EB1F-D3CA-44EE-893E-9E07339C1F22&amp;displaylang=en</FONT></A></P></FONT>]]></content>
+      <comments>
+        <comment id="2" date-created="2004-09-08T13:41:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Davide Mauri" user-url="http://www.davidemauri.it/">
+          <title type="text"><![CDATA[RE: Best Practices Analyzer Tool for Microsoft SQL Server 2000 1.0]]></title>
+          <content type="text"><![CDATA[Ti posso anticipare che &#232; piuttosto carino! :-)]]></content>
+        </comment>
+        <comment id="3" date-created="2004-09-09T11:19:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="M.rkino" user-url="http://blogs.ugidotnet.org/markino">
+          <title type="text"><![CDATA[re: Best Practices Analyzer Tool for Microsoft SQL Server 2000 1.0]]></title>
+          <content type="text"><![CDATA[wow bel tool!<br><br>Scaricato e fatto subito un test ieri dopo che lo hai segnalato... mi sembra un tool da tenere nella valigetta del buon sviluppatore :-D ]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="4" date-created="2004-09-10T10:31:00" date-modified="2004-09-10T10:31:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/09/10/2274.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Microsoft Java Language Conversion Assistant 3.0 beta]]></title>
+      <content type="text"><![CDATA[<P><A href="http://msdn.microsoft.com/vstudio/downloads/tools/jlca/30Beta/">http://msdn.microsoft.com/vstudio/downloads/tools/jlca/30Beta/</A></P>
+<P>&nbsp;</P>
+<H2>What's New in the Java Language Conversion Assistant 3.0? </H2>
+<UL>
+<LI><B>J2EE conversion.</B> This release supports converting J2EE 1.3 and JDK 1.3 libraries as well as EJB, JAAS, JCE, JMS, JNDI, and RMI. 
+<LI><B>Improved client conversion.</B> Deeper support for migrating Swing applications. &nbsp; </LI></UL>
+<P><I>The Java Language Conversion Assistant continues to provide:</I></P>
+<UL>
+<LI><B>Integration with Visual Studio .NET.</B> The Java Language Conversion Assistant facilitates further application development or identification and completion of conversion tasks within the integrated development environment (IDE). 
+<LI><B>Protection for existing investments</B>. By converting your business logic, the Java Language Conversion Assistant helps you leverage existing investments, thus avoiding some of the risks of new development and decreasing your time to market. 
+<LI><B>Full conversion to Visual C#.</B> Conversion of existing Java-language code to Visual C# and the .NET Framework is complete and self-contained. You can immediately start using the power of the .NET Framework and the component-oriented programming features of Visual C#. </LI></UL>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="5" date-created="2004-09-23T09:56:00" date-modified="2004-09-23T09:56:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/09/23/3131.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[New Portable Media Center]]></title>
+      <content type="text"><![CDATA[In anteprima un video su Channell 9 mms://wm.microsoft.com/ms/msnse/0409/23360/PMC/pmcfinal_0001_56K_110K_300K.wmv
+]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="6" date-created="2004-09-28T13:17:00" date-modified="2004-09-28T13:17:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/09/28/3342.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Nuova foto]]></title>
+      <content type="text"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml">Ho appena postato una nuova foto su Photosig se volete vederla <a href="http://www.photosig.com/go/photos/view?id=1344701">http://www.photosig.com/go/photos/view?id=1344701</a></div>
+<div xmlns="http://www.w3.org/1999/xhtml">I commenti sono benvenuti</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">Se vi piacciono qui ne trovate alcune altre <a href="http://www.photosig.com/go/users/userphotos?id=157865">http://www.photosig.com/go/users/userphotos?id=157865</a></div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="7" date-created="2004-09-29T09:01:00" date-modified="2004-09-29T09:01:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/09/29/3370.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[18 Novembre segna questa data in agenda]]></title>
+      <content type="text"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml">Bill Gates al Forum di Assago</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><a href="http://www.microsoft.com/italy/technicalconference/default.mspx">http://www.microsoft.com/italy/technicalconference/default.mspx</a></div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="8" date-created="2004-09-29T11:43:00" date-modified="2004-09-29T11:43:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/09/29/3378.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Deployment of Managed COM Add-Ins in Office XP]]></title>
+      <content type="text"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml" align="left">Lettura molto interessante</div>
+<div xmlns="http://www.w3.org/1999/xhtml" align="left"><a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnoxpta/html/odc_shim.asp">http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnoxpta/html/odc_shim.asp</a></div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="9" date-created="2004-10-05T09:17:00" date-modified="2004-10-05T09:17:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/10/05/3736.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Very Large Database]]></title>
+      <content type="text"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml">Se state pianificando di comprare un server di database in grado di supportare grandi volumi di carico ecco alcuni suggerimenti e link.</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">Comprare un prodotto "<font face="Arial">Designed for Microsoft Windows" <a title="http://www.microsoft.com/windows/catalog/server/" href="http://www.microsoft.com/windows/catalog/server/"><font style="FONT-SIZE: 10pt">Microsoft Windows Server Catalog</font></a><font style="FONT-SIZE: 10pt"> da sicuramente maggiori rassicurazioni per quanto riguarda Compatibilità e Supporto.</font></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="Arial"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="Arial">Verificare le configurazioni di qualche case study <font style="FONT-SIZE: 10pt"> </font><a title="http://www.microsoft.com/sql/techinfo/administration/2000/scalability.asp" href="http://www.microsoft.com/sql/techinfo/administration/2000/scalability.asp"><font style="FONT-SIZE: 10pt">Scalability and Very Large Database (VLDB) Resources</font></a> secondo il tipo di applicazione che utilizzerà il server.</font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="Arial"></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font face="Arial">Se volete usare una SAN HP <font style="FONT-SIZE: 10pt"> </font><a title="http://activeanswers.compaq.com/ActiveAnswers/Render/1,1027,5175-6-100-225-1,00.htm" href="http://activeanswers.compaq.com/ActiveAnswers/Render/1,1027,5175-6-100-225-1,00.htm"><font style="FONT-SIZE: 10pt">HP SAN in SQL Server 2000 Environments</font></a></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" xmlns="http://www.w3.org/1999/xhtml"><u><font face="Arial" size="2"><span style="FONT-SIZE: 10pt"><strong>Riferimenti a Knowledge Base</strong></span></font></u></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" size="2"><span style="FONT-SIZE: 10pt">How to use the SQLIOStress utility to stress a disk subsystem such as SQL Server</span></font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" size="2"><span style="FONT-SIZE: 10pt"><a title="http://support.microsoft.com/default.aspx?kbid=231619" href="http://support.microsoft.com/default.aspx?kbid=231619">http://support.microsoft.com/default.aspx?kbid=231619</a></span></font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" size="2"><span style="FONT-SIZE: 10pt"></span></font> </div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" size="2"><span style="FONT-SIZE: 10pt">MS03-031</span></font><font face="Arial" size="2"><span style="FONT-SIZE: 10pt">: Security patch for SQL Server 2000 Service Pack 3</span></font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" size="2"><span style="FONT-SIZE: 10pt"><a title="http://support.microsoft.com/default.aspx?kbid=821277" href="http://support.microsoft.com/default.aspx?kbid=821277">http://support.microsoft.com/default.aspx?kbid=821277</a></span></font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" size="2"><span style="FONT-SIZE: 10pt"></span></font> </div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" size="2"><span style="FONT-SIZE: 10pt">PRB: Additional SQL Server Diagnostics Added to Detect Unreported I/O Problems</span></font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" size="2"><span style="FONT-SIZE: 10pt"><a title="http://support.microsoft.com/default.aspx?kbid=826433" href="http://support.microsoft.com/default.aspx?kbid=826433">http://support.microsoft.com/default.aspx?kbid=826433</a></span></font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" size="2"><span style="FONT-SIZE: 10pt"></span></font> </div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" size="2"><span style="FONT-SIZE: 10pt">PRB: Error message 823 may indicate hardware problems or system problems</span></font></div>
+<div style="PADDING-RIGHT: 0cm; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Arial" size="2"><span style="FONT-SIZE: 10pt"><a title="http://support.microsoft.com/default.aspx?kbid=828339" href="http://support.microsoft.com/default.aspx?kbid=828339">http://support.microsoft.com/default.aspx?kbid=828339</a></span></font></div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="10" date-created="2004-10-06T07:31:00" date-modified="2004-10-06T07:31:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/10/06/3797.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Programmatically check for canonicalization issues with ASP.NET KB887459]]></title>
+      <content type="text"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml">This article describes how to add more safeguards to an ASP.NET application to help protect against common canonicalization issues.</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><a href="http://support.microsoft.com/?kbid=887459">http://support.microsoft.com/?kbid=887459</a></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="11" date-created="2004-10-06T10:24:00" date-modified="2004-10-06T10:24:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/10/06/3808.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Web-Style Navigation in Windows Forms]]></title>
+      <content type="text"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml">Interessantissimo articolo</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><a href="http://msdn.microsoft.com/library/en-us/dnforms/html/winforms07202004.asp">http://msdn.microsoft.com/library/en-us/dnforms/html/winforms07202004.asp</a></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><a href="http://msdn.microsoft.com/library/en-us/dnforms/html/winforms09212004.asp">http://msdn.microsoft.com/library/en-us/dnforms/html/winforms09212004.asp</a></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="12" date-created="2004-10-07T08:20:00" date-modified="2004-10-07T08:20:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/10/07/3873.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Messenger 7]]></title>
+      <content type="text"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml">Ho appena disinstallato messenger 7.0 (non mi faceva fare più login)</div>
+<div xmlns="http://www.w3.org/1999/xhtml">E' andato tutto bene fiuuuu</div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="13" date-created="2004-10-17T12:55:00" date-modified="2004-10-17T12:55:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/10/17/4352.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Dotnetnuke]]></title>
+      <content type="text"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml">Purtroppo i miei webcast su DotNetNuke sono andati persi durante il cambio di piattaforma.</div>
+<div xmlns="http://www.w3.org/1999/xhtml">Durante le ultime settimane ho ricevuto tantissime mail di persone che erano interessate ai miei webcast e non riuscivano più a trovarli.</div>
+<div xmlns="http://www.w3.org/1999/xhtml">Appena mi sono rimesso a sistemare il materiale è stata annunciata la versione 3 di DotNetNuke e quindi ho diciso di aspettare e di rifare I webcast direttamente sulla versione nuova.</div>
+<div xmlns="http://www.w3.org/1999/xhtml">Penso di decidere le date entro una decina di giorni.</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="14" date-created="2004-10-26T07:45:00" date-modified="2004-10-26T07:45:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/10/26/4792.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[SQL Server 2005 Developer WebCast Series begins Dec 6th 2004]]></title>
+      <content type="text"><![CDATA[<a xmlns="http://www.w3.org/1999/xhtml" href="http://msdn.microsoft.com/SQL/2005Webcasts/">http://msdn.microsoft.com/SQL/2005Webcasts/</a>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="15" date-created="2004-10-27T09:26:00" date-modified="2004-10-27T09:26:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/10/27/4846.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Sviluppare Smart Document di Office 2003]]></title>
+      <content type="text"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml">Se avete visto a SMAU le soluzioni Office Smart Client e vi siete chiesti come realizzarne una da domani comincia una serie di webcast dedicati</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">Sviluppare Smart Document di Office 2003 - Introduzione</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">Sviluppare Smart Document di Office 2003 - Tips and Triks</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">Per iscrivervi</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><a href="http://www.microsoft.com/italy/msdn/eventi/webcast/default.mspx">http://www.microsoft.com/italy/msdn/eventi/webcast/default.mspx</a></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="16" date-created="2004-10-27T11:56:00" date-modified="2004-10-27T11:56:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/10/27/4851.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Whidbey update]]></title>
+      <content type="text"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml">Non so se arrivo tardi ma ho trovato questo post interessantissmo su Whidbey</div>
+<div xmlns="http://www.w3.org/1999/xhtml" style="PADDING-RIGHT: 0in; MARGIN-TOP: 0in; PADDING-LEFT: 0in; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt"><span style="FONT-SIZE: 10pt"><font face="Arial">http://weblogs.asp.net/scottgu/archive/2004/10/23/246709.aspx</font></span></div>]]></content>
+      <trackbacks>
+        <trackback id="17" date-created="2004-10-27T12:15:00" date-modified="2007-08-12T12:25:31" approved="true" url="http://blogs.aspitalia.com/rickyvr/post707.aspx">
+          <title type="text"><![CDATA[Test plan di Whidbey Beta 2]]></title>
+        </trackback>
+      </trackbacks>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="18" date-created="2004-10-27T14:25:00" date-modified="2004-10-27T14:25:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/10/27/4864.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Comparing Windows with Linux and UNIX]]></title>
+      <content type="text"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml">Steve Ballmer ha appena inviato una mail … il contenuto …</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><a href="http://www.microsoft.com/mscorp/execmail/">http://www.microsoft.com/mscorp/execmail/</a></div>]]></content>
+      <comments>
+        <comment id="19" date-created="2004-12-21T11:04:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Robert">
+          <title type="text"><![CDATA[re: Comparing Windows with Linux and UNIX]]></title>
+          <content type="text"><![CDATA[thanks]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="20" date-created="2004-11-11T13:17:00" date-modified="2004-11-11T13:17:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/11/11/5367.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[DotnetNuke free hosting]]></title>
+      <content type="text"><![CDATA[<div align="left" xmlns="http://www.w3.org/1999/xhtml">Magari a qualcuno può interessare</div>
+<div align="left" xmlns="http://www.w3.org/1999/xhtml"><a href="http://www.bydesignwebsights.com/">http://www.bydesignwebsights.com/</a></div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="21" date-created="2004-11-19T09:24:00" date-modified="2004-11-19T09:24:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/11/19/5771.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Announcing the availability of the Mixed Workload Consolidation Guide ]]></title>
+      <content type="text"><![CDATA[<div style="PADDING-RIGHT: 0in; MARGIN-TOP: 0in; PADDING-LEFT: 0in; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" xmlns="http://www.w3.org/1999/xhtml"><strong><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt"><em>Complete Guidance to Access, Test, Plan and Design</em></span></font></strong></div>
+<div style="PADDING-RIGHT: 4.3pt; PADDING-LEFT: 0in; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt">This Mixed Workload Consolidation Guide provides detailed information you can use to assess and test application compatibility, and to plan and design consolidated mixed workload solutions. </span></font></div>
+<div style="PADDING-RIGHT: 4.3pt; PADDING-LEFT: 0in; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt"></span></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" style="PADDING-RIGHT: 0in; MARGIN-TOP: 0in; PADDING-LEFT: 0in; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt"><font face="Verdana" size="3"><span style="FONT-SIZE: 12pt">Server Consolidation site: <a title="http://www.microsoft.com/serverconsolidation" href="http://www.microsoft.com/serverconsolidation">Http://www.microsoft.com/serverconsolidation</a> </span></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml" style="PADDING-RIGHT: 0in; MARGIN-TOP: 0in; PADDING-LEFT: 0in; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt"><font face="Verdana" size="3"><span style="FONT-SIZE: 12pt">TechNet download site: <a title="http://www.microsoft.com/downloads/details.aspx?FamilyId=0F70695E-5D0B-4781-8966-84BE43216F9E&amp;displaylang=en" href="http://www.microsoft.com/downloads/details.aspx?FamilyId=0F70695E-5D0B-4781-8966-84BE43216F9E&amp;displaylang=en">http://www.microsoft.com/downloads/details.aspx?FamilyId=0F70695E-5D0B-4781-8966-84BE43216F9E&amp;displaylang=en</a>.</span></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml" style="PADDING-RIGHT: 0in; MARGIN-TOP: 0in; PADDING-LEFT: 0in; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt"><font face="Verdana" size="3"><span style="FONT-SIZE: 12pt"></span></font> </div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="22" date-created="2004-11-19T09:56:00" date-modified="2004-11-19T09:56:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/11/19/5772.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Guida alle soluzioni Smart Client]]></title>
+      <content type="text"><![CDATA[<a xmlns="http://www.w3.org/1999/xhtml" href="http://www.microsoft.com/italy/office/smartclient/default.mspx">http://www.microsoft.com/italy/office/smartclient/default.mspx</a>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="23" date-created="2004-11-22T18:01:00" date-modified="2004-11-22T18:01:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/11/22/5967.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[WINFX Avalon CTP is released]]></title>
+      <content type="text"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml"><a href="http://msdn.microsoft.com/longhorn">http://msdn.microsoft.com/longhorn</a></div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="24" date-created="2004-11-24T10:25:00" date-modified="2004-11-24T10:25:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/11/24/6057.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[E' uscito DotNetNuke 3.0]]></title>
+      <content type="text"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml">Andrea Saltarello mi ha appena avvistato che è uscito DNN 3.0.</div>
+<div xmlns="http://www.w3.org/1999/xhtml">Questa settimana sono un po' incasinato ma da lunedì incomincio a preparare il webcast, a breve la data.</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="25" date-created="2004-12-03T23:00:00" date-modified="2004-12-03T23:00:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/12/04/6583.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Express Manager(XM) and the December CTP are available.]]></title>
+      <content type="text"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml"><span style="FONT-SIZE: 10pt">Today we have released the first preview version of SQL Server 2005 Express Manager (under the SQL Server 2005 December Community Technology Preview umbrella), a lightweight easy to use tool for managing SQL Server. It is filled with features to simplify, automate, and reduce the complexity of database support and administration. You can download the bits and installation instructions from <a title="http://www.microsoft.com/downloads/details.aspx?familyid=8f92556a-6c3b-47d2-9929-ecdc5a4d25ae&amp;displaylang=en" href="http://www.microsoft.com/downloads/details.aspx?familyid=8f92556a-6c3b-47d2-9929-ecdc5a4d25ae&amp;displaylang=en">here</a>. Also, we have a <a title="http://download.microsoft.com/download/4/3/9/439A85F7-386C-44E0-A610-AC3BA1D2E2E2/XMDecemberCTPWhitePaper.doc" href="http://download.microsoft.com/download/4/3/9/439A85F7-386C-44E0-A610-AC3BA1D2E2E2/XMDecemberCTPWhitePaper.doc">whitepaper</a> and <a title="http://download.microsoft.com/download/4/3/9/439A85F7-386C-44E0-A610-AC3BA1D2E2E2/ReadmeSQLExpMgr.htm" href="http://download.microsoft.com/download/4/3/9/439A85F7-386C-44E0-A610-AC3BA1D2E2E2/ReadmeSQLExpMgr.htm">readme</a> detailing more about SQL Server 2005 Express Manager. </span></div><div xmlns="http://www.w3.org/1999/xhtml"><span style="FONT-SIZE: 10pt"></span> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"><a title="http://www.microsoft.com/downloads/details.aspx?FamilyId=8F92556A-6C3B-47D2-9929-ECDC5A4D25AE&amp;displaylang=en" href="http://www.microsoft.com/downloads/details.aspx?FamilyId=8F92556A-6C3B-47D2-9929-ECDC5A4D25AE&amp;displaylang=en">http://www.microsoft.com/downloads/details.aspx?FamilyId=8F92556A-6C3B-47D2-9929-ECDC5A4D25AE&amp;displaylang=en</a></div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="26" date-created="2004-12-23T10:23:00" date-modified="2004-12-23T10:26:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2004/12/23/7670.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[i-mate SP3 - Windows Mobile]]></title>
+      <content type="text"><![CDATA[<div xmlns="http://www.w3.org/1999/xhtml">
+<div align="left">Da un paio di giorni mi hanno cambiato il cellulare aziendale.</div>
+<div align="left">Il nuovo cellulare è un i-mate SP3 devo dire che sono molto soddisfatto è veramente un bel cellulare.</div>
+<div align="left">Considerando che fino alla settimana scorsa usavo un prototipo della QTEK mai commercializzato con un build di Windows Mobile in Beta. Questa combinazione dava al mio excellulare un'autonomia di circa 10 ore senza telefonare, non funzionava il T9 e una tonnellata di altre cose …  devo dire che il salto è veramente notevole.</div>
+<div align="left">La cosa che mi ha stupito positivamente è che per la prima volta ho notato che l'SP3 ha veramente tutte le funzioni tipiche di un cellulare. Nelle prime versioni dei QTEK spesso trovavo cose che mancavano.</div>
+<div align="left">Ieri sera l'ho anche provato con un auricolare bluetooth e….. FUNZIONA!!</div>
+<div align="left"> </div>
+<div align="left">Ho scoperto anche che sul sito i-mate regalano per un anno un account di exchange con il quale sincronizzare il telefono qualora non diponeste di un account aziendale.</div>
+<div align="left"> </div>
+<div align="left">Vi farò sapere altri commenti tipo durata delle batterie e ricezione appena l'avrò utilizzato un po' di più.</div>
+<div align="left"> </div>
+<div align="left"> </div>
+<div align="left"> </div>
+<div align="left">Per il momento sono soddisfattissimo.</div>
+<div align="left"><a href="http://www.andando.it/scheda.tmpl?shop=an&amp;sku=EM041125694&amp;cat1=0&amp;cat2=0&amp;produt=i-mate&amp;ric1=prod&amp;ric2=0&amp;ric3=0&amp;cart=1103797541945686&amp;start=1&amp;ric_id=[ric_id_ricevuto">http://www.andando.it/scheda.tmpl?shop=an&amp;sku=EM041125694&amp;cat1=0&amp;cat2=0&amp;produt=i-mate&amp;ric1=prod&amp;ric2=0&amp;ric3=0&amp;cart=1103797541945686&amp;start=1&amp;ric_id=[ric_id_ricevuto</a>]</div></div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="27" date-created="2005-01-21T17:46:00" date-modified="2005-01-21T17:46:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2005/01/21/9862.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Digital BlackBelt Security WebCast Series]]></title>
+      <content type="text"><![CDATA[<CENTER><A title="Digital BlackBelt Webcast Series" href="http://www.microsoft.com/seminar/events/series/digitalblackbelt.mspx" target=_blank><IMG height=240 src="http://www.managedcode.com/ads/DBB_120x240.gif" width=120 border=0></A> </CENTER>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="28" date-created="2005-02-09T16:18:00" date-modified="2005-02-09T16:18:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2005/02/09/10574.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[DNN Italia]]></title>
+      <content type="text"><![CDATA[<P>Sono sempre stato appasionato di DotNetNuke. Purtroppo in Italia non ho mai trovato un sito dove poter discutere o trovare informazioni su dnn.</P>
+<P>Dopo vari prove "lite" l'altra sera ho&nbsp;deciso di aprire un portale in italia il sito si chiama <A href="http://www.dnnitalia.com">www.dnnitalia.com</A> &#232; ancora un po' scarno ma nei prossimi giorni ho intanzione di popolarlo con un po' di materiale che ho preparato per i miei webcast.</P>
+<P>Naturalmente se qualcuno&nbsp;di voi&nbsp;&#232; interessato ad aiutarmi faccia un fischio </P>]]></content>
+      <comments>
+        <comment id="29" date-created="2005-02-09T17:04:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Roberto Messora">
+          <title type="text"><![CDATA[re: DNN Italia]]></title>
+          <content type="text"><![CDATA[Bene!<br>Sono anche io un sostenitore di DNN (fino ad averlo utilizzato per un sito istituzionale di un cliente) e sto seguendo i webcast. ci &quot;sentiamo&quot; domani allora.<br>saluti]]></content>
+        </comment>
+        <comment id="30" date-created="2005-02-11T08:36:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Massimo Martucci">
+          <title type="text"><![CDATA[re: DNN Italia]]></title>
+          <content type="text"><![CDATA[Ciao,<br>mi sono iscritto al tuo sito, e sto usando anche io Dnn in azienda per un prototipo.<br>Ho un problema abbastanza serio (almeno in apparenza) e ho postato sul forum un messaggio nella sezione Varie, ma nessuno mi ha risposto.<br>Puoi aiutarmi?<br><br>ciao<br><br>Max]]></content>
+        </comment>
+        <comment id="31" date-created="2007-08-30T14:02:05" date-modified="2007-08-30T14:02:05" approved="true" user-name="Paolo" user-email="paolo.milani@lombardia-servizi.it">
+          <title type="text"><![CDATA[re: DNN Italia]]></title>
+          <content type="text"><![CDATA[Ciao,<br />sono un grande appassionato di DotnetNuke e sto tentando di utilizzarlo presso l'azienda in cui lavoro. Sto riscontrando, con mio grande dispiacere, grandi difficoltà nel far funzionare un sito Web creato con DNN in produzione.<br />I miei problemi sono legati al fatto che il WebServer su cui è presente l'applicazione è esposto tramite un ReverseProxy Apache. Pertanto se provo a richiamare l'applicazione "www.cartografia.lispa.it/relit" ottengo un errore da parte di Internet Explorer. <br />Ho provato a seguire i suggerimenti riportati nel seguente forum:<br />http://www.dotnetnuke.com/Community/Forums/tabid/795/postid/47485/Default.aspx<br />ma nulla di fatto.<br />Hai qualche consiglio? Sono in seri problemi.<br /><br />Ciao e grazie<br />Paolo]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="32" date-created="2005-04-06T12:18:00" date-modified="2005-04-06T12:18:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2005/04/06/13678.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Avalon and Indigo March CTP]]></title>
+      <content type="text"><![CDATA[<FONT face=Verdana size=2>
+<P>The Avalon and Indigo March CTP is now available for 
+anyone to <A href="http://www.microsoft.com/downloads/details.aspx?FamilyID=85ab132b-f1aa-4422-b053-272d79863013&displaylang=en">download</A>! 
+</FONT>
+<FONT face=Verdana size=2></P></FONT><!-- Powered by IMHO Instant Blogger Copyright (c) 2004 A.Boschin - http://www.elite.boschin.it -->
+]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="33" date-created="2005-04-08T10:10:00" date-modified="2005-04-08T10:10:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2005/04/08/13774.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Problemi con dnnitalia]]></title>
+      <content type="text"><![CDATA[<FONT face=Verdana size=2>
+<P>Ultimamente ho avuto un po' di problemi con la linea di 
+dnnitalia.</P>
+<P>Ho cambiato IP e adesso ci metterà un po' per propagarsi se volete arrivare 
+sul sito vi suggerisco <A href="http://beta.dnnitalia.com/">http://beta.dnnitalia.com</A> che essendo un 
+alias nuovo non dovrebbe soffrire di problemi di refresh.</P>
+<P>Scusate per il disagio.</P>
+<P>PS.</P>
+<P>La causa di tutto è un sistemista (mio fratello) che voleva riutilizzare un 
+vecchio pc e per non comprare un router dal costo di 80&nbsp;euro (che avrei 
+pagato io).&nbsp;Ha messo in piedi una macchina Linux con smooth wall..... dopo 
+un mese la prima ha incominciato a fare i capricci poi si è rotta 
+definitivamente ...&nbsp;</P>
+<P>Non sempre riciclare i pc significa risparmiare&nbsp;sopratutto ore di sonno 
+<IMG height=19 src="http://www.imhoproject.org/files/allegro.gif" width=19 align=absMiddle border=0>&nbsp;
+</FONT><FONT face=Verdana size=2></FONT>non solo quel PC sembrava un boeing in fase di 
+decollo.</P></FONT>
+<FONT face=Verdana size=2></FONT><!-- Powered by IMHO Instant Blogger Copyright (c) 2004 A.Boschin - http://www.elite.boschin.it -->
+]]></content>
+      <comments>
+        <comment id="34" date-created="2005-04-08T10:28:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Andrea Grandi" user-url="http://blogs.ugidotnet.org/andreagrandi">
+          <title type="text"><![CDATA[re: Problemi con dnnitalia]]></title>
+          <content type="text"><![CDATA[Un fratello che usa Linux???<br>Chissa' che lotte in famiglia :D]]></content>
+        </comment>
+        <comment id="35" date-created="2005-04-08T10:33:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="GAB" user-url="http://blogs.ugidotnet.org/gabrielc">
+          <title type="text"><![CDATA[re: Problemi con dnnitalia]]></title>
+          <content type="text"><![CDATA[Per fortuna lui vive a Firenze ed io a Milano]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="36" date-created="2005-04-18T09:41:00" date-modified="2005-04-18T09:41:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2005/04/18/14221.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[API che verranno rimosse dalla beta 2]]></title>
+      <content type="text"><![CDATA[<FONT face=Verdana size=2>
+<P>Interessante doc che evidenzia tutte le API che verranno 
+rimosse dalla RTM del framework 2.0 e mostra le alternative da utilizzare.</P>
+<P><A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=7A89E36B-E486-4EE3-98B9-173C262A9F31&displaylang=en">http://www.microsoft.com/downloads/details.aspx?FamilyId=7A89E36B-E486-4EE3-98B9-173C262A9F31&amp;displaylang=en</A></P>
+<P>Alcune di queste sono vecchie API della versione 1.0/1.1 che non verranno 
+inserite nella versione RTM 2.0.
+</FONT>
+<FONT face=Verdana size=2></P></FONT><!-- Powered by IMHO Instant Blogger Copyright (c) 2004 A.Boschin - http://www.elite.boschin.it -->
+]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="37" date-created="2005-04-22T11:55:00" date-modified="2005-04-22T11:55:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2005/04/22/14651.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Windows Server 2003 SP1 e Virtual Server]]></title>
+      <content type="text"><![CDATA[<P>Se avete problemi di velocità provate ad intallare la SP1 di Virtual Server</P>
+<P><A title=http://www.microsoft.com/windowsserversystem/virtualserver/default.mspx href="http://www.microsoft.com/windowsserversystem/virtualserver/default.mspx"><FONT face=Arial size=2>http://www.microsoft.com/windowsserversystem/virtualserver/default.mspx</FONT></A></P><!-- Powered by IMHO Instant Blogger Copyright (c) 2004 A.Boschin - http://www.elite.boschin.it -->
+]]></content>
+      <comments>
+        <comment id="38" date-created="2005-04-22T12:00:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Lorenzo Barbieri" user-url="http://blogs.ugidotnet.org/lbarbieri">
+          <title type="text"><![CDATA[re: Windows Server 2003 SP1 e Virtual Server]]></title>
+          <content type="text"><![CDATA[Dalle release notes della Beta della SP1 di VS si legge che non &#232; ottimizzato per la velocit&#224; e si sconsiglia di usarlo in produzione...<br><br>Probabilmente basta installarne le additions, o anche le additions della SP1 di VPC dovrebbero bastare se non si vuole rischiare...]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="39" date-created="2005-04-23T08:54:00" date-modified="2005-04-23T08:54:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2005/04/23/14701.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[SQL Server 2000 Reporting Service Pack 2]]></title>
+      <content type="text"><![CDATA[<FONT face=Verdana size=2>
+<P class=MsoNormal><SPAN style="FONT-SIZE: 11pt">The Reporting Services team has 
+just released Service Pack 2 of SQL Server 2000 Reporting Services!&nbsp;The 
+service pack is available for download from the Microsoft Download Center: <A title=http://www.microsoft.com/downloads/details.aspx?FamilyId=502C0D89-1308-4662-8F58-CEC55EF1235B&amp;displaylang=en href="http://www.microsoft.com/downloads/details.aspx?FamilyId=502C0D89-1308-4662-8F58-CEC55EF1235B&displaylang=en"><SPAN title=http://www.microsoft.com/downloads/details.aspx?FamilyId=502C0D89-1308-4662-8F58-CEC55EF1235B&amp;displaylang=en>http://www.microsoft.com/downloads/details.aspx?FamilyId=502C0D89-1308-4662-8F58-CEC55EF1235B&amp;displaylang=en</SPAN></A><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="FONT-SIZE: 11pt">&nbsp;<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="FONT-SIZE: 11pt">You also can get to the SP2 
+download information from the following sites:<o:p></o:p></SPAN></P>
+<UL style="MARGIN-TOP: 0in" type=disc>
+  <LI class=MsoNormal   style="mso-list: l0 level1 lfo1; tab-stops: list .5in"><SPAN   style="FONT-SIZE: 11pt">Reporting Services Home: <A   title=http://www.microsoft.com/sql/reporting/default.asp   href="http://www.microsoft.com/sql/reporting/default.asp">http://www.microsoft.com/sql/reporting/default.asp</A> 
+  <o:p></o:p></SPAN>
+  <LI class=MsoNormal   style="mso-list: l0 level1 lfo1; tab-stops: list .5in"><SPAN   style="FONT-SIZE: 11pt">Reporting Services Downloads: <A   title=http://www.microsoft.com/sql/reporting/downloads/default.asp   href="http://www.microsoft.com/sql/reporting/downloads/default.asp">http://www.microsoft.com/sql/reporting/downloads/default.asp</A> 
+  <o:p></o:p></SPAN>
+  <LI class=MsoNormal   style="mso-list: l0 level1 lfo1; tab-stops: list .5in"><SPAN   style="FONT-SIZE: 11pt">SQL Server Service Packs: <A   title=http://www.microsoft.com/sql/downloads/servicepacks.asp   href="http://www.microsoft.com/sql/downloads/servicepacks.asp">http://www.microsoft.com/sql/downloads/servicepacks.asp</A> 
+  <o:p></o:p></SPAN>
+  <LI class=MsoNormal   style="mso-list: l0 level1 lfo1; tab-stops: list .5in"><SPAN   style="FONT-SIZE: 11pt">SQL Server home page <A   title=http://www.microsoft.com/sql/default.mspx   href="http://www.microsoft.com/sql/default.mspx">http://www.microsoft.com/sql/default.mspx</A> 
+  <o:p></o:p></SPAN></LI></UL>
+<P class=MsoNormal><SPAN style="FONT-SIZE: 11pt"><o:p>&nbsp;</o:p></SPAN></P>
+</FONT>
+<FONT face=Verdana size=2><P><A href="http://imhoproject.org/"><FONT face=Verdana size=1>powered by IMHO 1.2</FONT></A></P></FONT><!-- Powered by IMHO Instant Blogger Copyright (c) 2004 A.Boschin - http://www.elite.boschin.it -->
+]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="40" date-created="2005-04-23T16:13:00" date-modified="2005-04-23T16:13:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2005/04/23/14704.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Language pack italiano e sviluppo ]]></title>
+      <content type="text"><![CDATA[<FONT face=Verdana size=2>
+<P>Finalmente con dnnitalia abbiamo appena rilasciato un 
+languagepack in italiano per dotnetnuke.</P>
+<P>Ancora è perfettibile ma ci stiamo lavorando</P>
+<P><A title=http://www.dnnitalia.com href="http://www.dnnitalia.com/" target=_blank name="">www.dnnitalia.com</A></P>
+<P>Parallelamente ho incominciato a scrivere una guida allo sviluppo di moduli 
+per dnn.</P>
+<P>E' ancora molto in draft ma spero di finirla presto</P>
+</FONT>
+<FONT face=Verdana size=2><P><A href="http://imhoproject.org/"><FONT face=Verdana size=1>powered by IMHO 1.2</FONT></A></P></FONT><!-- Powered by IMHO Instant Blogger Copyright (c) 2004 A.Boschin - http://www.elite.boschin.it -->
+]]></content>
+      <comments>
+        <comment id="41" date-created="2007-02-18T20:05:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Davide">
+          <title type="text"><![CDATA[Language pack italiano e sviluppo ]]></title>
+          <content type="text"><![CDATA[Ciao... Da qualche giorno mi sto cimentando in DNN , pi&#249; lo studio pi&#249; ne apprezzo le qualit&#224;. Ho voluto poi  scaricare il Language Pack in Italiano da www.dnnitali.com ma non sono stato in grado, perch&#232; non ho i privileggi anche se sono registrato.<br><br>saresti gentile da guggerirmi la procedura da utilizzare? <br><br>Grazie grazie ancora<br>]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="42" date-created="2005-09-02T09:46:00" date-modified="2005-09-02T09:46:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2005/09/02/25680.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[30 Nuovi templates per Windows Sharepoint Services (WSS)]]></title>
+      <content type="text"><![CDATA[<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=EN-US style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Al ritorno dalla mia vacanza ho trovato questa mail nella mia mailbox.</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=EN-US style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Sembrano templates interessanti appena avr&#242; il tempo li prover&#242;.</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=EN-US style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Today we released 30 new applications for Windows SharePoint Services (attached are the PR related materials).&nbsp; These applications consist of 100% out-of-box WSS functionality and have been tailored to meet the needs of specific tasks or business processes.&nbsp; The applications are available as a free download and will support a diverse range of both horizontal and vertical scenarios.&nbsp; The external link and further details are below. <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=EN-US style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><o:p>&nbsp;<SPAN lang=EN-US style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><A title=http://www.microsoft.com/technet/prodtechnol/sppt/wssapps/default.mspx href="http://www.microsoft.com/technet/prodtechnol/sppt/wssapps/default.mspx"><FONT title=http://www.microsoft.com/technet/prodtechnol/sppt/wssapps/default.mspx color=black><SPAN title=http://www.microsoft.com/technet/prodtechnol/sppt/wssapps/default.mspx style="COLOR: windowtext">http://www.microsoft.com/technet/prodtechnol/sppt/wssapps/default.mspx</SPAN></FONT></A></SPAN></o:p></SPAN></FONT></P>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="43" date-created="2005-09-13T07:20:00" date-modified="2005-09-13T07:20:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2005/09/13/26277.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Visual Studio 2005 Release Candidate (RC) on MSDN]]></title>
+      <content type="text"><![CDATA[<FONT face=Verdana size=2>
+<P><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">The 
+Visual Studio 2005 Release Candidate (RC) (yes, no numbers) is live on <A title=http://msdn.microsoft.com/subscriptions href="http://msdn.microsoft.com/subscriptions">MSDN</A> 
+today! 
+</SPAN></P>
+<P><FONT face=Verdana size=2><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">     
+              
+           The RC bits (RTM.50727.26) 
+are compatible with the SQL Server 2005 September CTP, also going live on MSDN 
+simultaneously. SQL Server Express (SSE) September CTP bits (9.0.1314.06) are 
+already integrated into the RC build.&nbsp; </SPAN></FONT></P>
+<P><FONT face=Verdana size=2><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">As we are really close to RTM, 
+there are no more planned public releases at this time. So, next stop – 
+RTM!!!</SPAN></FONT><o:p></o:p></P>
+<P class=MsoNormal><B><FONT face=Verdana size=2><SPAN style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Verdana"></SPAN></FONT></B><o:p></o:p></P>
+</FONT>
+<FONT face=Verdana size=2><P>GAB</P></FONT><!-- Powered by IMHO Instant Blogger Copyright (c) 2004 A.Boschin - http://www.elite.boschin.it -->
+]]></content>
+      <comments>
+        <comment id="44" date-created="2005-09-14T08:56:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Luca Minudel" user-url="http://blogs.ugidotnet.org/luka">
+          <title type="text"><![CDATA[re: Visual Studio 2005 Release Candidate (RC) on MSDN]]></title>
+          <content type="text"><![CDATA[Ho cercato nella subscriber area (MSDN Universal) ma non trovo il link.]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="45" date-created="2005-10-21T14:25:00" date-modified="2005-10-21T14:25:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2005/10/21/28473.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Nuovo Hotmail]]></title>
+      <content type="text"><![CDATA[<P>Non mi ricordo se avevo fatto apply per un gruppo di beta ne come.</P>
+<P>Sta di fatto che da oggi utilizzo hotmail beta ...... una figata incredibile.</P>
+<P>Sicuramente il migliore che abbia mai visto ... molto meglio anche di OWA</P>
+<P>&nbsp;</P>
+<P>GAB</P>]]></content>
+      <comments>
+        <comment id="46" date-created="2005-10-21T15:16:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Michele Bersani">
+          <title type="text"><![CDATA[re: Nuovo Hotmail]]></title>
+          <content type="text"><![CDATA[Per iscriversi:<br><a target="_new" href="http://test.msn.ignia.com/minisites/hotmail/default.aspx?locale=en-us">http://test.msn.ignia.com/minisites/hotmail/default.aspx?locale=en-us</a>]]></content>
+        </comment>
+        <comment id="47" date-created="2005-10-21T20:39:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Romeo Pruno" user-url="http://blogs.devleap.com/romeopruno">
+          <title type="text"><![CDATA[re: Nuovo Hotmail]]></title>
+          <content type="text"><![CDATA[Sinceramente non utilizzo hotmail, spero comunque che non abbia sotto lo stesso motore che ha adesso: <a target="_new" href="http://blogs.devleap.com/romeopruno/archive/2005/10/18/6032.aspx">http://blogs.devleap.com/romeopruno/archive/2005/10/18/6032.aspx</a> <br>]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="48" date-created="2005-11-05T01:20:00" date-modified="2005-11-05T01:20:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2005/11/05/29226.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Nuovo gadget per live.com]]></title>
+      <content type="text"><![CDATA[<P>Mio fratello ha appena finito di scrivere un gadget per live.com</P>
+<P>se volete provarlo <A href="http://microsoftgadgets.com/forums/694/ShowPost.aspx">http://microsoftgadgets.com/forums/694/ShowPost.aspx</A></P>
+<P>&nbsp;</P>
+<P>Trovo live.com veramente comodo. Ormai l'ho impostato come pagina di default del mio browser sostituendo la mitica about:blank.</P>
+<P>Magari tra un po' mi verr&#224; nostalgia ... vedremo</P>
+<P>GAB</P>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="49" date-created="2005-11-09T08:30:00" date-modified="2005-11-09T08:30:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2005/11/09/29536.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[ASP.NET 2.0 PayPal Commerce Starter Kit ]]></title>
+      <content type="text"><![CDATA[<P>Riporto dal blog si ScottGu</P>
+<P><FONT size=2>One of the really cool starter kits that shipped on the web this week is the Commerce Starter Kit built by PayPal.&nbsp; You can download and learn about it here: </FONT><A href="http://www.commercestarterkit.org/"><FONT size=2>http://www.commercestarterkit.org/</FONT></A></P>
+<P><FONT size=2>It ships as a .vsi download -- which means that if you have <A href="http://www.asp.net/default.aspx?tabindex=7&amp;tabid=46">Visual Web Developer</A> or VS 2005 installed you can just do "New Web Site", pick the Commerce Starter Kit, and immediately get a working commerce site w/ PayPal payment integration.</FONT></P>
+<P><FONT size=2>The starter kit is a full-blown ASP.NET 2.0 app, and shows off using the new ASP.NET Master Pages, Login/Membership, Role Management, Profile, ObjectDataSource, and data access features.&nbsp; The end result is a&nbsp;very clean app that is really easy to customize and use.&nbsp; Best of all it is free.</FONT></P>]]></content>
+      <comments>
+        <comment id="50" date-created="2006-07-09T21:17:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="michele carofiglio">
+          <title type="text"><![CDATA[re: ASP.NET 2.0 PayPal Commerce Starter Kit ]]></title>
+          <content type="text"><![CDATA[I need a paypal commerce starter kit because I don't have time to spend in reading manuals and I will try this solution ]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="51" date-created="2005-11-23T07:28:00" date-modified="2005-11-23T07:28:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2005/11/23/30395.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Demo Lancio VS2005 Web]]></title>
+      <content type="text"><![CDATA[<P>Potete trovare i sorgenti della demo qui <A href="http://workspaces.gotdotnet.com/smartestate">http://workspaces.gotdotnet.com/smartestate</A></P>
+<P>GAB</P>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="52" date-created="2005-11-29T11:52:00" date-modified="2005-11-29T11:52:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2005/11/29/30741.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[How to manually uninstall SQL Express if uninstalling from Add/Remove Programs fails]]></title>
+      <content type="text"><![CDATA[<P><A href="http://blogs.msdn.com/astebner/archive/2005/09/13/465401.aspx">http://blogs.msdn.com/astebner/archive/2005/09/13/465401.aspx</A></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>]]></content>
+      <trackbacks>
+        <trackback id="53" date-created="2008-03-17T03:32:48" date-modified="2008-03-17T03:32:48" approved="true" url="http://yo-mommas-a-freak.gpsone.nx.cn/map.html">
+          <title type="text"><![CDATA[Yo mommas a freak]]></title>
+        </trackback>
+      </trackbacks>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="54" date-created="2006-01-12T09:54:00" date-modified="2006-01-12T09:54:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2006/01/12/32786.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Crystal Reports Migration Tool for SQL Server 2005 Reporting ]]></title>
+      <content type="text"><![CDATA[Un mio amico ha realizzato un convertitore da <FONT size=2>Crystal Reports a Reporting Services se vi interessa trovate maggiori info all'indirizzo <A href="http://www.codesapiens.net/"><U><FONT color=#0000ff size=2>http://www.codesapiens.net</U></FONT></A></FONT>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="55" date-created="2006-01-12T10:13:00" date-modified="2006-01-12T10:13:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2006/01/12/32787.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Materiale lancio Visual Studio 2005]]></title>
+      <content type="text"><![CDATA[<P>Qui trovate tutto il materiale completo</P>
+<P><A href="http://www.microsoft.com/italy/launch2005/day/track1.mspx">http://www.microsoft.com/italy/launch2005/day/track1.mspx</A></P>]]></content>
+      <comments>
+        <comment id="56" date-created="2006-01-13T16:27:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="marco pomponi">
+          <title type="text"><![CDATA[re: Materiale lancio Visual Studio 2005]]></title>
+          <content type="text"><![CDATA[Ciao ! ho assistito alla tua interessante presentazione di luned&#236; (ISV day) ed ero interessato agli esempi che hai fatto sulla gestione degli user<br>Non si potrebbero avere i codici degli esempi che hai fatto vedere ?<br>grazie]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="57" date-created="2006-01-18T17:34:00" date-modified="2006-01-18T17:34:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2006/01/18/33203.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[The WinFX Runtime Components January CTP]]></title>
+      <content type="text"><![CDATA[<P>The WinFX Runtime Components January CTP and Go-Live site have been published; they should all start becoming available within the hour! </P>
+<P>WinFX Runtime Components: <BR><A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=61DD9CA7-1668-42E4-BD37-03716DD83E53&amp;displaylang=en">http://www.microsoft.com/downloads/details.aspx?FamilyId=61DD9CA7-1668-42E4-BD37-03716DD83E53&amp;displaylang=en</A>&nbsp;&nbsp; <BR>Go-Live for WCF and WF:<BR><A href="http://msdn.microsoft.com/winfx/getthebeta/golive/default.aspx">http://msdn.microsoft.com/winfx/getthebeta/golive/default.aspx</A></P>
+<P>Windows SDK:&nbsp; <BR><A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=64750EEF-D4A7-4CC8-92F2-9A201268A231&amp;displaylang=en">http://www.microsoft.com/downloads/details.aspx?FamilyId=64750EEF-D4A7-4CC8-92F2-9A201268A231&amp;displaylang=en</A> </P>
+<P>Microsoft Visual Studio Code Name &#8220;Orcas&#8221; Community Technology Preview - Development Tools for WinFX&#174; (aka Fidalgo):&nbsp;&nbsp; <BR><A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=5A0AE4CD-DC79-4B12-8A05-B6195F89FFA2&amp;displaylang=en">http://www.microsoft.com/downloads/details.aspx?FamilyId=5A0AE4CD-DC79-4B12-8A05-B6195F89FFA2&amp;displaylang=en</A> </P>
+<P>VS Extensions for WorkFlow:&nbsp;&nbsp; <BR><A href="http://www.microsoft.com/downloads/details.aspx?FamilyId=A2151993-991D-4F58-A707-5883FF4C1DC2&amp;displaylang=en">http://www.microsoft.com/downloads/details.aspx?FamilyId=A2151993-991D-4F58-A707-5883FF4C1DC2&amp;displaylang=en</A> </P>
+<P>WinFX RC January CTP &#8220;Readme&#8221;:&nbsp; <BR><A href="http://msdn.microsoft.com/windowsvista/support/relnotes/winfxjanctp/default.aspx">http://msdn.microsoft.com/windowsvista/support/relnotes/winfxjanctp/default.aspx</A> </P>
+<P>The Vista &#8220;where to get the beta&#8221; site will also point to the WinFX Runtime January CTP.</P>]]></content>
+      <comments>
+        <comment id="58" date-created="2006-01-19T17:56:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Michele Bersani" user-url="http://blogs.ugidotnet.org/puntorete/archive/2005/11/24/30465.aspx">
+          <title type="text"><![CDATA[re: The WinFX Runtime Components January CTP]]></title>
+          <content type="text"><![CDATA[Ciao Gabriele,<br>sai per caso quando ci sara' la Go-Live per &quot;Atlas&quot; ?<br>Grazie.<br><br>Michele]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="59" date-created="2006-05-04T23:00:00" date-modified="2006-05-04T23:00:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2006/05/05/40086.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Windows Vista Webcast Series]]></title>
+      <content type="text"><![CDATA[<div align="left" xmlns="http://www.w3.org/1999/xhtml">Come segnalato da <a href="http://blogs.devleap.com/marco/archive/2006/05/04/7355.aspx">Marco</a> domani inizieremo una serie di webcast di approfondimento su Windows Vista e WinFx che proseguirà fino a fine Luglio (probabilmente anche oltre).</div>
+<div align="left" xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div align="left" xmlns="http://www.w3.org/1999/xhtml">Se volete maggiori informazioni abbiamo creato una <a href="http://www.microsoft.com/italy/msdn/risorsemsdn/windowsvista/default.mspx">sezione del sito MSDN dedicata</a> per il momento abbiamo pubblicato gli appuntamenti di Maggio ma entro un paio di giorni completeremo il percorso con I titoli programmati fino a Luglio.</div>
+<div align="left" xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div align="left" xmlns="http://www.w3.org/1999/xhtml"> </div>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="60" date-created="2006-05-13T18:39:00" date-modified="2006-05-13T18:39:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2006/05/13/40665.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Vista ... è giunto il momento della svolta]]></title>
+      <content type="text"><![CDATA[<P>Questa settimana ho installato Windows Vista (WinHec build) su una seconda partizione del mio disco.</P>
+<P>Devo dire che rispetto alle varie Beta, CTP, o build intermedie questa &#232; la prima su cui si riesce a lavorare senza grandissimi problemi.</P>
+<P>Non contento della sfida ho anche deciso di cambiare il mio modo di utilizzare Windows. Per la prima volta infatti alla fine del wizard di setup ho deciso di configurare il mio utente come User.</P>
+<P>Dopo quasi una settimana che utilizzo di&nbsp;questa partizione devo dire che quasi non rimpingo Windows XP e che sicuramente non torner&#242; a lavorare come Administrator. </P>
+<P>Dopo una settimana di lavoro posso dire infatti&nbsp;di aver coperto la quasi totalit&#224; delle tipiche operazioni che svolgo e per cui serve l'utente Admin; configurazioni, impostazioni, setup driver, sviluppo, &#232; andato tutto lisco alla prima.<BR></P>
+<P>Sarei quasi tentato di formattare tutto e rimanere solo con Windows&nbsp;Vista, ma il fatto che questa build non sia sincronizzata con WinFX, Office, ecc... mi trattiene. Ho trovato anche qualche bachetto un po' fastiodioso ... </P>
+<P>Una cosa per&#242; &#232; sicura appena esce la Beta 2 vado formatto tutto e non torno pi&#249; indietro :-)</P>
+<P>Un ultimo consiglio, se decidete di installare Vista anche voi, resistete alla tentazione di mettervi come admin locali, almeno provateci.</P>]]></content>
+      <comments>
+        <comment id="61" date-created="2006-05-13T20:53:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="babba" user-url="http://www.ongari.it/">
+          <title type="text"><![CDATA[re: Vista ... &#232; giunto il momento della svolta]]></title>
+          <content type="text"><![CDATA[&#232; gi&#224; presente virtual pc (o la versione nuova l'express)... sono tentato anch'io a fare questo passaggio alla beta 2, ma vorrei avere un modo per poter lavorare ancora anche con xp o 2003]]></content>
+        </comment>
+        <comment id="62" date-created="2006-05-13T21:32:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Zio">
+          <title type="text"><![CDATA[re: Vista ... &#232; giunto il momento della svolta]]></title>
+          <content type="text"><![CDATA[scusa il francesismo ma: bella cagata. Date le esperienza passate mi guardo bene dall'installarlo prima di 6 mesi da quando esce la versione finale! Ho addirittura aspettato qualche anno per passare da Win2000 a XP!]]></content>
+        </comment>
+        <comment id="63" date-created="2006-05-14T17:35:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Gabriele">
+          <title type="text"><![CDATA[re: Vista ... &#232; giunto il momento della svolta]]></title>
+          <content type="text"><![CDATA[Zio,<br>l'unico scopo del mio post era rivolto ad incoraggiare l'utilizzo di Vista come non Admin.<br>Se vuoi aspettare prima della migrazione aspetta pure.<br>L'unica cosa che ti consciglio &#232; quantomeno di guardarlo quando uscir&#224; in versione definitiva e di decidere di conseguenza.]]></content>
+        </comment>
+        <comment id="64" date-created="2006-05-16T06:48:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Lorenzo Barbieri" user-url="http://www.geniodelmale.info/">
+          <title type="text"><![CDATA[re: Vista ... &#232; giunto il momento della svolta]]></title>
+          <content type="text"><![CDATA[X Zio:<br>Beh... io uso XP dalla beta 2 senza rimpianti... e probabilmente metter&#242; su vista tra poco... queste CTP non sono ancora pronte per il prime time...<br><br>Poi se uno vuole aspettare &#232; suo diritto farlo... Ma se uno aspetta qualche anno a passare da win2000 a xp... beh... peggio per lui... :-)<br><br>E poi... complimenti per l'educazione...]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="65" date-created="2006-05-24T13:28:00" date-modified="2006-06-21T11:35:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2006/05/24/41493.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Slides ASP.NET]]></title>
+      <content type="text"><![CDATA[<P>Ecco il link per scaricare le slides </P>
+<P><A href="http://www.gabrielecastellani.com/asp_net.zip">http://www.gabrielecastellani.com/asp_net.zip</A></P>
+<P><A href="http://www.gabrielecastellani.com/VS2005forVB6.zip">http://www.gabrielecastellani.com/VS2005forVB6.zip</A></P>
+<P><A href="http://www.gabrielecastellani.com/clickonce.zip">http://www.gabrielecastellani.com/clickonce.zip</A></P>
+<P><A href="http://www.gabrielecastellani.com/Step Demo.zip">http://www.gabrielecastellani.com/Step Demo.zip</A></P>
+<P>Page LifeCycle <A href="http://msdn2.microsoft.com/en-us/ms178472(VS.80).aspx">http://msdn2.microsoft.com/en-us/ms178472(VS.80).aspx</A></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>]]></content>
+      <comments>
+        <comment id="66" date-created="2006-05-31T16:41:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="giuliano">
+          <title type="text"><![CDATA[Ringraziamenti]]></title>
+          <content type="text"><![CDATA[Grazie per le slides :-)<br><br>non avevi annuciato che mettevi anche qualche sample ?<br><br>CIAO]]></content>
+        </comment>
+        <comment id="67" date-created="2006-07-03T09:52:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Luca Naviglio" user-url="http://lukevi.altervista.org/">
+          <title type="text"><![CDATA[Approccio a Visual Studio 2005]]></title>
+          <content type="text"><![CDATA[Ciao Gabriele, sono Luca uno dei partecipanti al tuo corso di 2 giorni su VS 2005 tenutosi a Roma poco tempo fa. Sto cercando di fare una applicazione web partendo dallo starter kit sui Club e le associazioni per cercare di imparare un po questo strumento di sviluppo.<br>Comincio gi&#224; ad avere i miei primi problemi, ad esempio ho fatto tutto con sqlexpress del kit cio&#232; con il file aspnetdb.mdf presente nello starter kit ma quando lo uppo sul mio host l'applicazione non funziona.<br>Forse perch&#232; quell'host non supporta sqlexpress ?? il .NET 2.0 sono sicuro che lo supporta ma forse devo utilizzare per forza il sql server che mette a disposizione l'host.<br>Sai come potrei utilizzare lo stesso starter kit cambiando per&#242; il db sotto ?<br>O forse mi consigli l'utilizzo di db Access ?<br><br>Grazie e complimenti per il sito !!!]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="68" date-created="2006-09-05T10:11:00" date-modified="2006-09-05T10:21:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2006/09/05/47344.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[E Vista sia!!!]]></title>
+      <content type="text"><![CDATA[<p>Già dall'uscita della di Windows Vista Beta 2 mi ero deciso ad utilizzare il nuovo&nbsp;sistema operativo&nbsp;più che potevo.</p> <p>Sfortunatamente&nbsp;a&nbsp;causa della mancanza di dirver e di alcuni problemini con le virtual machines&nbsp;in realtà non ho utilizzato la Beta 2 come avrei voluto.</p> <p>Con l'uscita della July CTP la situazione dei driver è migliorata e devo dire che a Luglio/Agosto ho utilizzato Vista come S.O. principale. Sulla scia di questo entusiasmo ieri ho formattato i miei due PC ho completamente cancellato le partizioni XP ed ho installato da zero Vista RC1... in poche parole ho superato il punto di non ritorno.</p> <p>Le prime impressioni sono molto positive: il sistema è veloce e responsive come con XP, i driver che mi interessavano sono riuscito a configurarli tutti.</p> <p>Adesso sono alle prese con i problemi tipici dei primi giorni:<br><strong>Sperimentare tutte le features possibili ed immaginabili </strong></p> <p>Sono consapevole del fatto che questo approccio mi porterà rapidamente ad incasinare tutto ... ma non posso resistere :-)</p> <p>Sto cercando anche&nbsp;di capire tra tutti i software che utilizzo quali sono compatibili quali no e che versioni cercare... francamente qui ho ancora da lavorare un po'</p> <p>Vi tengo aggiornati ... </p>]]></content>
+      <comments>
+        <comment id="69" date-created="2006-09-05T12:05:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Antonio Di Motta" user-url="http://dimotta.spaces.blog.com/">
+          <title type="text"><![CDATA[re: E Vista sia!!!]]></title>
+          <content type="text"><![CDATA[Domande:<br><br>Quanta ram hai?<br><br>Provato su vmware?<br>]]></content>
+        </comment>
+        <comment id="70" date-created="2006-09-05T12:15:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="GAB" user-url="http://blogs.ugidotnet.org/gabrielc/">
+          <title type="text"><![CDATA[re: E Vista sia!!!]]></title>
+          <content type="text"><![CDATA[2GB di RAM su entrambe le macchine ma fino alla CTP di Luglio andava abbastanza lento.<br>Adesso VOLA a confronto<br><br>No su vmware no :-)]]></content>
+        </comment>
+        <comment id="71" date-created="2006-09-05T16:18:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="vincos" user-url="http://vincos.spaces.live.com/blog/cns!1BE30B71856FFF9D!2135.entry">
+          <title type="text"><![CDATA[re: E Vista sia!!!]]></title>
+          <content type="text"><![CDATA[Una mia recensione<br><a target="_new" href="http://vincos.spaces.live.com/blog/cns">http://vincos.spaces.live.com/blog/cns</a>!1BE30B71856FFF9D!2135.entry]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="72" date-created="2006-09-08T09:02:00" date-modified="2006-09-08T10:29:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2006/09/08/47555.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[.NET 3.0 RC1]]></title>
+      <content type="text"><![CDATA[<p>&nbsp;</p> <p>Da oggi sono disponibili per il download le estensioni per .Net RC1</p> <p><a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=935AABF9-D1D0-4FC9-B443-877D8EA6EAB8&amp;displaylang=en">Microsoft Visual Studio Code Name “Orcas” Community Technology Preview – Development Tools for .NET Framework 3.0</a></p> <p>&nbsp;</p> <p>In più sono state anche anche rilasciate le CTP allineate&nbsp;dei prodotti Expression.</p> <p><a href="http://www.microsoft.com/products/expression/en/default.mspx">Sito Expression</a></p>]]></content>
+      <comments>
+        <comment id="73" date-created="2006-09-08T10:23:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="babba" user-url="http://www.ongari.it/">
+          <title type="text"><![CDATA[re: .NET 3.0 RC1]]></title>
+          <content type="text"><![CDATA[il primo link non va]]></content>
+        </comment>
+        <comment id="74" date-created="2006-09-08T10:30:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="GAB" user-url="http://blogs.ugidotnet.org/gabrielc/">
+          <title type="text"><![CDATA[re: .NET 3.0 RC1]]></title>
+          <content type="text"><![CDATA[Corretto grazie]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="75" date-created="2006-09-14T17:26:00" date-modified="2006-09-14T17:27:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2006/09/14/47860.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Zune Details Relealed]]></title>
+      <content type="text"><![CDATA[<p>Oggi è stato presentato ufficialmente Zune il nuovo player realizzato da Microsoft.</p> <p>A prima vista sono molto&nbsp;promettenti le funzionalità di social networking.</p> <p>Maggiori dettagli <a href="http://www.zuneinsider.com/">http://www.zuneinsider.com/</a></p> <blockquote>Zune Details Revealed</blockquote> <p>Source: <a href="http://www.zuneinsider.com/">Zune Insider Blog</a></p>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="76" date-created="2006-09-25T09:58:00" date-modified="2006-09-25T09:58:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2006/09/25/48653.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Developing next generation Web application using AJAX and Atlas]]></title>
+      <content type="text"><![CDATA[<p>Oggi mi hanno segnalato questo webcast americano.</p> <p>Appena ho tempo lo seguirò ... nel frattempo lo segnalo a voi se volete darmi feedback sono graditi.</p> <p><a href="http://msevents.microsoft.com/cui/WebCastEventDetails.aspx?culture=en-US&amp;EventID=1032306960&amp;CountryCode=US">http://msevents.microsoft.com/cui/WebCastEventDetails.aspx?culture=en-US&amp;EventID=1032306960&amp;CountryCode=US</a> <p>Description: How can you take advantage of Asynchronous JavaScript and XML (AJAX) in your enterprise Web applications? Which solutions could benefit the most from AJAX capabilities? How does AJAX relate to other solution models like smart clients and traditional Web applications? In this webcast, we address these questions with an overview of ASP.NET code name "Atlas," a free AJAX-based framework from Microsoft. Learn about the capabilities of the "Atlas" framework, and see demonstrations and sample code that illustrate what is involved in implementing an "Atlas"-based solution. We conclude with a look at how "Atlas" compares to other solution models, and recommendations on choosing the best approach for different scenarios. ]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="77" date-created="2006-10-01T15:07:00" date-modified="2006-10-01T15:07:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2006/10/01/49328.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[XBOX 360 si prepara per il natale e per la battaglia con PS3]]></title>
+      <content type="text"><![CDATA[<p>Casualmente sono capitato su questa pagina che contiene lo streaming dell'X06.</p> <p>La conferenza che ha presentato in europa tutte le novità che bollono in pentola in casa microsoft per qianto riguarda il settore dei giochi.</p> <p>Devo dire che non seguo in modo particolarmente attento questp settore ma quello che si vede da questo filmato è veramente impressionante.</p> <p>Penso che con queste premesse la PS3 avrà molte difficoltà. Dal filato non si capisce esattamente cosa uscirà in esclusiva su XBOX 360 e cosa sarà multiconsolle ma è cmq imprssionante.</p> <p>Devo dire che questo filmato mi ha convinto a mettere da parte i $$ per un nuovo TV LCD 40"&nbsp;1080p pittosto che per una nuova consolle :-)</p> <p>Adesso non vedo l'ra che escano:</p> <ul> <li>Fable 2  <li>Assassin's creek  <li>Lost Odissey  <li>Blue dragon  <li>PES3  <li>ed altri ancora ...</li></ul> <p>Se volete vedere il filmato lo trovate qui <a title="http://www.xbox.com/en-US/community/news/events/x06/default.htm" href="http://www.xbox.com/en-US/community/news/events/x06/default.htm">http://www.xbox.com/en-US/community/news/events/x06/default.htm</a></p> <p>Adesso mi metto alla ricerca del TV qualcuno di voi ne ha uno da consigliarmi?</p>]]></content>
+      <comments>
+        <comment id="78" date-created="2006-10-02T16:45:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Francesco Carucci">
+          <title type="text"><![CDATA[re: XBOX 360 si prepara per il natale e per la battaglia con PS3]]></title>
+          <content type="text"><![CDATA[Non prendere un televisore 1080p altrimenti il 99% dei giochi che sono a 720p devono scalare e non mappano la matrice dell'LCD 1 a 1. Risultato: si vede peggio :)]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="79" date-created="2006-11-07T15:05:00" date-modified="2006-11-07T15:05:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2006/11/07/54100.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[ASP.NET AJAX Beta 2]]></title>
+      <content type="text"><![CDATA[<p>Rilasciata la Beta 2 di ASP.NET AJAX Beta 2 insieme a:</p> <blockquote> <p>ASP.NET 2.0 AJAX Extensions</p> <p>ASP.NET AJAX November Futures CTP</p> <p>ASP.NET AJAX Samples </p> <p>ASP.NET AJAX Control Toolkit</p></blockquote> <p><a title="http://ajax.asp.net/" href="http://ajax.asp.net/">http://ajax.asp.net/</a></p>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="80" date-created="2006-11-20T14:11:00" date-modified="2006-11-20T14:11:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2006/11/20/55655.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Scrivere XAML]]></title>
+      <content type="text"><![CDATA[<P>Prendo spunto da un post di <A href="http://blog.boschin.it/archive/2006/11/17/4701.aspx">Andrea Boschin</A> per fare alcune considerazioni su WPF e XAML.<BR>In linea di massima concordo con Andrea e devo dire che prima di provare a scrivere un po' di XAML facevo parte anch'io delle persone che credevano che scrivere XAML fosse molto difficile e poco produttivo. Devo dire che mi sono dovuto ricredere velocemente. Appena ho iniziato mi sono reso conto che era molto pi&#249; facile di quanto pensassi :-) </P>
+<P>Un sabato mattina ho aperto un nuovo progetto Visual Studio e ho detto "proviamo" dopo pochi minuti mi sembrava di essere tornato indietro di una decina di anni, quando iniziavo a sviluppare in HTML. La sensazione &#232; esattamente quella di sviluppare in HTML con una sintassi diversa. All'inizio si continua a consultare help ed esempi per riuscire a disegnare quello che si ha in mente. Il numero di copia e incolla si sprecano :-) Poi si prende il via e non si smette pi&#249; (esattamente quello che &#232; successo nel 96 quando mi sono cimentato con le prime pagine HTML).</P>
+<P>Adesso devo dire che il mio rapporto con XAML &#232; molto simile a quello che ho con l'HTML. Quando devo creare una pagina web alla fine preferisco scrivere HTML direttamente e non utilizzare un designer se non per qualche ritocco alla fine del progetto. Stessa cosa per XAML scrivo XAML e magari uso interactive designer per ritoccare gli stili.</P>
+<P>E' chiaro che bisogna incominciare per passi quindi quello che consiglio alla luce della mia esperienza &#232; di prendere un'idea semplice e di provare a realizzarla partendo con XAML Pad e VS2005 (per la parte di intellisense) e un sample preso dall'SDK da cui fare copia ed incolla. Io ho scelto"PhotoStoreDemo" ed il login screen.</P>
+<P>Un giorno magari riuscir&#242; anche a finire il progetto che ho incominciato&nbsp;e lo metter&#242; pubblico ... mi mancano ancora un paio di nottate :-)<BR></P>]]></content>
+      <comments>
+        <comment id="81" date-created="2006-11-20T22:33:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Corrado Cavalli">
+          <title type="text"><![CDATA[Re: Scrivere XAML]]></title>
+          <content type="text"><![CDATA[Visto lo stato attuale dei designers per quanto mi riguarda WPF=XAML.<br>Cosi' come non credo possa esistere webmaster che non conosce HTML non posso pensare ad applicazioni WPF scritte da qualcuno che non conosce XAML.<br>Il problema vero e' convincere la marea di sviluppatori Windows ad iniziare il percorso di migrazione con: CrossBow poco piu' che una coppia di wrapper inutilizzabili in applicazioni 'serie', Cider... beh, lasciamo perdere, EID (o forse dovrei dire MEB?) poco Dev oriented (e questo e' normale) ma forse troppo &quot;you know XAML, don't you?&quot;.<br>Insomma, chi ne ha capito le potenzialita' si sta gia' organizzando, purtroppo credo che dovremo aspettare ancora un po' prima che WPF possa diventare un fenomeno di massa.<br>Sicuramente quando lo diventera' (e su questo non ho dubbi...) Io voglio esserci ;-)]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="82" date-created="2007-04-03T23:05:00" date-modified="2007-04-03T23:05:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/04/04/74633.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Expression and MSDN Premium]]></title>
+      <content type="text"><![CDATA[<p>Expression Web ed Expression Blend saranno inseriti in MSDN Premium.</p> <p>Da subito è disponibile <strong>Expression Web </strong>mentre Blend sarà inserito quando sarà rilasciato in versione definitiva.</p> <p>I&nbsp;possessori di <strong>Visual Studio Team Suite </strong>avranno a disposizione anche tutta la suite <strong>Expression Studio.</strong></p> <p><strong></strong>&nbsp;</p> <p><a href="http://blogs.msdn.com/somasegar/archive/2007/04/03/listening-to-your-feedback-expression-and-msdn.aspx">Maggiori dettagli</a></p> <p>Consentitemi il breve annuncio marketing ma da più fonti mi era stata fatta questa richiesta.</p>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="83" date-created="2007-04-16T14:04:00" date-modified="2007-04-16T14:15:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/04/16/75605.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Il nome di WPF/E &egrave;...]]></title>
+      <content type="text"><![CDATA[<P></P>
+<P></P>
+<DIV class=wlWriterSmartContent id=605EEA63-B54B-4e6d-A290-F5E9E8229FC1:e5afc7da-eae6-454b-8883-6f4cb923e9a1 contentEditable=false style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px"></DIV><A href="http://www.microsoft.com/silverlight/" atomicselection="true"><IMG src="http://www.microsoft.com/silverlight/images/logo_main_sl.gif"></A> 
+<P></P>
+<P>&nbsp;</P>
+<P>Come molti di voi avranno notato il nome definitivo di WPF/e &#232; <A href="http://www.microsoft.com/silverlight"><B>Microsoft Silverlight</B></A>. </P>
+<P>&nbsp;</P>
+<P>Modifica .....&nbsp;&nbsp;devo dire che il filmato in Home Page &#232; veramente carino</P>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="84" date-created="2007-05-09T16:53:00" date-modified="2007-05-09T16:53:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/05/09/77809.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[LCI Integrale]]></title>
+      <content type="text"><![CDATA[<p>La televisione Francese LCI ha lanciato un client WPF per il broadcast dei loro canali video e la ricerca dell'archivio dei filmati.</p> <p>Esiste una versione Basic free che potete installare all'indirizzo </p> <p><a href="http://tf1.lci.fr/infos/lciintegrale/">http://tf1.lci.fr/infos/lciintegrale/</a>  <p>Veramente molto bella ... anche la versione ridotta è molto carina.  <p>&nbsp; <img src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/LCIIntegrale_108C1/image%7B0%7D_thumb%5B1%5D.png">]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="85" date-created="2007-05-17T15:25:00" date-modified="2007-05-18T08:21:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/05/17/78491.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Ducati ha appena rilasciato un Gadget per WINDOWS Vista]]></title>
+      <content type="text"><![CDATA[<h4><a href="http://gallery.live.com/liveItemDetail.aspx?li=dc6fcf83-bde4-4e45-9ae9-f2f74176af49&amp;bt=1&amp;pl=1">http://gallery.live.com/liveItemDetail.aspx?li=dc6fcf83-bde4-4e45-9ae9-f2f74176af49&amp;bt=1&amp;pl=1</a></h4> <p><a href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/DucatihaappenarilasciatounGadgetperWINDO_F435/image03.png"><img height="249" src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/DucatihaappenarilasciatounGadgetperWINDO_F435/image0_thumb1.png" width="673" border="0"></a> <p><a href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/DucatihaappenarilasciatounGadgetperWINDO_F435/image%7B0%7D%5B3%5D.png"><img height="240" src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/DucatihaappenarilasciatounGadgetperWINDO_F435/image%7B0%7D%5B2%5D.png" width="203" border="0"><a href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/DucatihaappenarilasciatounGadgetperWINDO_F435/image%7B0%7D%5B1%5D.png"><img height="219" src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/DucatihaappenarilasciatounGadgetperWINDO_F435/image%7B0%7D.png" width="240" border="0"></a></a></p>]]></content>
+      <comments>
+        <comment id="86" date-created="2007-05-17T16:11:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Omar Damiani" user-url="http://blogs.ugidotnet.org/odamiani">
+          <title type="text"><![CDATA[re: Ducati ha appena rilasciato un Gadget per WINDOWS Vista]]></title>
+          <content type="text"><![CDATA[Ma...non l'avevo gi&#224; vista alla serata WoW di Vista?<br><br>O forse mi son sognato...]]></content>
+        </comment>
+        <comment id="87" date-created="2007-05-17T16:21:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Gabriele" user-url="http://e7obfe/">
+          <title type="text"><![CDATA[re: Ducati ha appena rilasciato un Gadget per WINDOWS Vista]]></title>
+          <content type="text"><![CDATA[Si ma al lancio era in anteprima adesso &#232; stato rilasciato :-)]]></content>
+        </comment>
+        <comment id="88" date-created="2007-05-17T16:30:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Igor Damiani" user-url="http://blog.vivendobyte.net/">
+          <title type="text"><![CDATA[Re: Ducati ha appena rilasciato un Gadget per WINDOWS Vista]]></title>
+          <content type="text"><![CDATA[non l'ho provata, perci&#242; lasciatemi il beneficio del dubbio. IMHO, tutti questi gadget a scopo...come dire...pubblicitario stanno gettando una brutta ombra sui gadget di Vista. Lo scopo dei gadget dovrebbe a mio avviso essere un altro. E' come le toolbar di IE: l'idea era pi&#249; che ottima, ma alla fine sono state create toolbar solo per infilarci dentro link a siti e simili.]]></content>
+        </comment>
+        <comment id="89" date-created="2007-05-18T08:06:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Matteo" user-url="http://f343e4/">
+          <title type="text"><![CDATA[re: Ducati ha appena rilasciato un Gadget per WINDOWS Vista]]></title>
+          <content type="text"><![CDATA[Ma secondo te Igor quale sarebbe la finalit&#224; dei gadget?]]></content>
+        </comment>
+        <comment id="90" date-created="2007-05-18T08:13:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="GAB">
+          <title type="text"><![CDATA[re: Ducati ha appena rilasciato un Gadget per WINDOWS Vista]]></title>
+          <content type="text"><![CDATA[Alla fine &#232; la stessa cosa del web esistono siti pieni di banner esistono siti interessanti.<br>Ci sono Gadget utili che consulto spesso e gadget che non installer&#242; mai.<br>Nello specifico questo di Ducati mi sembrava molto carino. Essendo appassionato Ducati trovo molto carino avere le loro news a portata di mano. Ti consiglio di provarlo puoi configurarlo e scegliere il genere di notizie che vuoi vedere (Bike, Racing, Communnity, ecc....) <br>]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="91" date-created="2007-05-30T10:28:00" date-modified="2007-05-30T10:28:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/05/30/79705.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Surfacing Computing]]></title>
+      <content type="text"><![CDATA[<p>&nbsp;</p> <p>Dove si compra ne voglio uno subito?! <a href="http://on10.net/Blogs/larry/first-look-microsoft-surfacing-computing/">Guardate il video</a></p> <p><a href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/SurfacingComputing_AEC7/image%7B0%7D_thumb.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="344" src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/SurfacingComputing_AEC7/image%7B0%7D_thumb.png" width="481" border="0"></a></p>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="92" date-created="2007-05-30T14:40:00" date-modified="2007-05-30T14:40:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/05/30/79723.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Omea Pro &amp; Windows Vista]]></title>
+      <content type="text"><![CDATA[<p>Quando è stata rilasciata la Beta 1 di Orcas l'ho chiaramente installata appena ho avuto in mano il DVD stessa cosa per Silverlight stessa cosa Omea Pro (consigliato da un amico.</p> <p>Come sempre succede per complicare le cose a metà del setup di Orcas mi si è sfilata la batteria del portatile quindi è successo un po' un casotto. </p> <p>Da quel momento ho incominciato a ricevere questo errore di iexplore in modo intermittente:</p> <p>Microsoft Visual c++ Error! iexplore.exe</p> <p><a href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/OmeaProWindowsVista_E977/image%7B0%7D_thumb%5B5%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="240" src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/OmeaProWindowsVista_E977/image%7B0%7D_thumb.png" width="436" border="0"></a> </p> <p>&nbsp;</p> <p>Mi sono subito maledetto per le installazioni fatte e stavo pensando di formattare tutto dando la colpa a tutte le beta che ho installato.</p> <p>INVECE NO! mi sbagliavo</p> <p>Alla fine navigando su internet ho scoperto che il problema era derivato da Omea pro.</p> <p>&nbsp;</p> <p>Disabilitando i plugin di Jetbrains in IE tutto funziona</p> <p><a href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/OmeaProWindowsVista_E977/image%7B0%7D_thumb%5B5%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="118" src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/OmeaProWindowsVista_E977/image%7B0%7D_thumb%5B5%5D.png" width="482" border="0"></a> </p> <p>Faccio questo post perchè era da un mese che soffrivo con questo problema magari vi risparmio un po' di tempo.</p>]]></content>
+      <comments>
+        <comment id="93" date-created="2007-05-30T14:54:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Antonio Ganci" user-url="http://blogs.ugidotnet.org/antonioganci">
+          <title type="text"><![CDATA[re: Omea Pro &amp;amp; Windows Vista]]></title>
+          <content type="text"><![CDATA[Scusa la domanda banale e OT, ma la [MS] dopo il nome significa che lavori alla Microsoft e che il tuo blog contiene messaggi promozionali?]]></content>
+        </comment>
+        <comment id="94" date-created="2007-05-30T15:02:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Igor Damiani" user-url="http://blog.vivendobyte.net/">
+          <title type="text"><![CDATA[Re: Omea Pro &amp; Windows Vista]]></title>
+          <content type="text"><![CDATA[x Antonio: un po' polemico, no? :-)]]></content>
+        </comment>
+        <comment id="95" date-created="2007-05-30T15:19:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="GAB">
+          <title type="text"><![CDATA[re: Omea Pro &amp;amp; Windows Vista]]></title>
+          <content type="text"><![CDATA[Chi mi conosce sa che sono anche critico rispetto a quello che Ms produce... Non mi sembrava un messaggio promozionale semplicemente volevo risparmiare un po' di problemi a qualche sventurato con un problema simile... mi dispiace tu lo abbia interpretato male]]></content>
+        </comment>
+        <comment id="96" date-created="2007-05-30T15:23:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Antonio Ganci" user-url="http://blogs.ugidotnet.org/antonioganci">
+          <title type="text"><![CDATA[re: Omea Pro &amp;amp; Windows Vista]]></title>
+          <content type="text"><![CDATA[Scusate non era nelle mie intenzioni essere polemico, era solo una curiosit&#224; sul serio.<br>]]></content>
+        </comment>
+        <comment id="97" date-created="2007-05-30T16:30:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Mario Duzioni" user-url="http://blogs.ugidotnet.org/duz">
+          <title type="text"><![CDATA[re: Omea Pro &amp;amp; Windows Vista]]></title>
+          <content type="text"><![CDATA[Personalmente apprezzo sempre parecchio questo genere di segnalazioni... sono quelle che ti passano per la testa velocemente e quando ti trovi nella stessa situazione ti si accende un delegate in qualche zona oscura che ti fa ricordare per magia quel &quot;tal post&quot;. :-)<br><br>Grazie!]]></content>
+        </comment>
+        <comment id="98" date-created="2007-05-31T13:51:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Igor Damiani" user-url="http://blog.vivendobyte.net/">
+          <title type="text"><![CDATA[Re: Omea Pro &amp; Windows Vista]]></title>
+          <content type="text"><![CDATA[x Mario: quoto.]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="99" date-created="2007-05-30T17:19:00" date-modified="2007-05-30T17:19:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/05/30/79737.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Windows Live Alerts]]></title>
+      <content type="text"><![CDATA[<p>Troppo carino mi sono fatto l'alert del messenger per i post .... chi lo vuole sottoscrivere :-)</p> <p><a href="http://signup.alerts.live.com/alerts/login.do?PINID=38438814&amp;returnURL=http://blogs.msdn.com/gabrielecastellani/"><img alt="Windows Live Alerts" src="http://images.alerts.live.com/mcwebsite/graphics/blog/alert_signup_eng.gif" border="0"></a></p>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="100" date-created="2007-05-31T18:02:00" date-modified="2007-05-31T18:02:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/05/31/79889.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Altro video di Microsoft surface]]></title>
+      <content type="text"><![CDATA[<p><embed name="flashObj" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" src="http://services.brightcove.com/services/viewer/federated_f8/271552687" width="486" height="412" type="application/x-shockwave-flash" swliveconnect="true" seamlesstabbing="false" base="http://admin.brightcove.com" flashvars="videoId=933742930&amp;playerId=271552687&amp;viewerSecureGatewayURL=https://services.brightcove.com/services/amfgateway&amp;servicesURL=http://services.brightcove.com/services&amp;cdnURL=http://admin.brightcove.com&amp;domain=embed&amp;autoStart=false&amp;" bgcolor="#FFFFFF"></embed></p>]]></content>
+      <comments>
+        <comment id="101" date-created="2007-06-01T07:46:00" date-modified="2007-08-12T12:25:31" approved="true" user-name="Alessandro Scardova" user-url="http://blogs.ugidotnet.org/AllePalle_blog">
+          <title type="text"><![CDATA[re: Altro video di Microsoft surface]]></title>
+          <content type="text"><![CDATA[Mi aspetto quello de tipo che arriva in casa, butta distrattamnte il celluare sul tavolo e... zac, tutte le foto dell'amante si spargono liberamente davanti al naso della moglie attnita :-P]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="102" date-created="2007-06-04T12:09:00" date-modified="2007-06-04T12:09:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/06/04/80248.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Save the date for MIX08!]]></title>
+      <content type="text"><![CDATA[<p>We are pleased to announce that MIX will be returning to the Venetian Resort Hotel Casino in Las Vegas on March 5-7, 2008. Stay tuned for announcements related to registration at <a href="http://www.visitmix.com/">MIX</a> and don’t forget to register early and sign up for those poker lessons you’ve been meaning to take.</p>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="103" date-created="2007-06-08T12:34:00" date-modified="2007-06-08T12:37:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/06/08/80784.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Microsoft Tagspace]]></title>
+      <content type="text"><![CDATA[<P>Ha appena aperto al pubblico TAGspace il nostro primo servizio di social bookmarking.</P>
+<P>Sotto il video introduttivo che spiega come utilizzarlo</P>
+<P>Se volete provarlo <A href="http://beta.communities.microsoft.com/tagspace/">http://beta.communities.microsoft.com/tagspace/</A></P>
+<P>&nbsp;</P><EMBED name=msn_soapbox pluginspage=http://macromedia.com/go/getflashplayer src=http://images.soapbox.msn.com/flash/soapbox1_1.swf width=432 height=364 type=application/x-shockwave-flash quality="high" wmode="transparent" flashvars="c=v&amp;v=194184de-7447-4046-a310-fa2a5944eb93"></EMBED><BR><A title="Intro to Tagspace" href="http://soapbox.msn.com/video.aspx?vid=194184de-7447-4046-a310-fa2a5944eb93" target=_new>Video: Intro to Tagspace</A>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="104" date-created="2007-06-18T16:34:00" date-modified="2007-06-18T16:34:00" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/06/18/82655.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Utilizzare WPF per interfacce stile gestionale]]></title>
+      <content type="text"><![CDATA[<p>Lavorando con le software house l'osservazione più comune che mi viene fatta su WPF riguarda proprio la possibilità di realizzare interfacce simili a quelle dei gestionali.  <p>Un mio collega ha rifatto l'interfaccia di outlook con Blend e WPF.  <p>La cosa che mi ha impressionato è che sostiene di averla fatta al 90% utilizzando Blend, per dimostrarlo ha anche allegato un Hands-On-Lab per riprodurlo.  <p>Appena trovo un po' di tempo voglio proprio provare.  <p>&nbsp;  <p><a href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/UtilizzareWPFperinterfaccestilegestional_104B1/clip_image001.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="137" alt="clip_image001" src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/UtilizzareWPFperinterfaccestilegestional_104B1/clip_image001.jpg" width="240" border="0"></a>  <p>XBAP demo  <p><a href="http://www.00001001.ch/download/HOL/WPF_XBAP/OutlookWPF/OutlookUI%20Browser.xbap">http://www.00001001.ch/download/HOL/WPF_XBAP/OutlookWPF/OutlookUI%20Browser.xbap</a>  <p>The lab manual can be downloaded from: <a href="http://www.00001001.ch/download/HOL/WPF/Outlook_HOL_WPF.pdf">http://www.00001001.ch/download/HOL/WPF/Outlook_HOL_WPF.pdf</a>  <p>The lab binaries are located here: <a href="http://www.00001001.ch/download/HOL/WPF/Outlook_HOL_WPF_projects.zip">http://www.00001001.ch/download/HOL/WPF/Outlook_HOL_WPF_projects.zip</a></p>]]></content>
+      <trackbacks>
+        <trackback id="105" date-created="2008-04-26T07:31:09" date-modified="2008-04-26T07:31:09" approved="true" url="http://www.free-blog-site.com/ultramcheap">
+          <title type="text"><![CDATA[Ultram addiction.]]></title>
+        </trackback>
+      </trackbacks>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="106" date-created="2007-09-25T09:39:23" date-modified="2007-09-25T09:39:23" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/09/25/88523.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Disponibile la Release Candidate 0 di Windows Server 2008]]></title>
+      <content type="text"><![CDATA[<p>Da oggi è disponibile la versione RC0 di Windows Server 2008.</p> <p>Questa build di fatto chiude il periodo delle beta da adesso il team di Windows sarà concentrato su performance e bug-fixing. </p><p>  </p><p>Molto interessante anche il rilascio <a href="http://blogs.technet.com/italy/archive/2007/09/12/windows-server-virtualization-ctp-disponibile-con-la-rc0-di-windows-server-2008.aspx">dei bit della preview di Windows Server Virtualization</a>. </p><p>  </p><p><a href="http://blogs.technet.com/italy/archive/2007/09/25/disponibile-la-release-candidate-0-di-windows-server-2008.aspx" target="_blank">Vi rimando al post di TechNet per informazioni dettagliate</a></p>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="107" date-created="2007-11-06T17:33:15" date-modified="2007-11-06T17:33:15" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/11/06/89477.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Live from TechEd Bacellona 2007]]></title>
+      <content type="text"><![CDATA[<p>Finalmente riesco a trovare il tempo per scrivere un po'. Attualmente sono a TechEd Developers a Barcellona. Qui le giornate hanno dei ritmi intensissimi.</p>  <p>Tutto è iniziato ieri con una sveglia alle 4.30 ed un volo per Barcellona. Arrivato al convetion center è stato il momento della KeyNote. Ecco come era piena la sala poco prima dell'inizio </p>  <p> </p>  <p></p>  <div class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:6d2f8fba-7886-4c6e-912a-21abc2dcbbc3" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px"><div id="48a600a9-4db1-47eb-972a-50b7b55bf4f7" style="margin: 0px; padding: 0px; display: inline;"><div><a href="http://soapbox.msn.com/video.aspx?vid=dc24175c-d3a5-47cd-9afe-d47be9335c8e&amp;from=writer" target="_new"><img src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/LivefromTechEdBacellona2007_DA86/video1c79b134d5f0.jpg" galleryimg="no" onload="var downlevelDiv = document.getElementById('48a600a9-4db1-47eb-972a-50b7b55bf4f7'); downlevelDiv.innerHTML = &quot;&lt;div&gt;&lt;embed src=\&quot;http://images.soapbox.msn.com/flash/soapbox1_1.swf\&quot; quality=\&quot;high\&quot; width=\&quot;432\&quot; height=\&quot;364\&quot; wmode=\&quot;transparent\&quot; type=\&quot;application/x-shockwave-flash\&quot; pluginspage=\&quot;http://macromedia.com/go/getflashplayer\&quot; flashvars=\&quot;c=v&amp;v=dc24175c-d3a5-47cd-9afe-d47be9335c8e&amp;from=writer\&quot; &gt;&lt;\/embed&gt;&lt;\/div&gt;&quot;;" alt="" /></a></div></div></div>  <p></p>  <p> </p>  <p>Subito dopo sono iniziate le sessioni tecniche.</p>  <p> </p>  <p>Colgo l'occasione anche per segnalarvi la nascita del nuovo blog del mio team  <a href="http://blogs.msdn.com/italy/default.aspx" target="_blank">MSDN Italy blog</a>.</p>  <p>Questa settimana su questo blog troverete un po' di informazioni relative a TechED abbiamo infatti iniziato con una piccola intervista a Mario e Pietro subito dopo la keynote per proseguire con un'intervista a Luca Bolognese (Lead Program Manager). Luca  lavora a Seattle da molti anni ed è a capo del team di C# e di LINQ, sentite direttamente la sua intervista.</p>  <p> </p>  <p>Seguiteci su <a href="http://blogs.msdn.com/italy/default.aspx" target="_blank">MSDN Italy blog</a> a presto ...</p>]]></content>
+      <attachments>
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/LivefromTechEdBacellona2007_DA86/video1c79b134d5f0.jpg" mime-type="image/jpeg" external-uri="/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/LivefromTechEdBacellona2007_DA86/video1c79b134d5f0.jpg" embedded="false" />
+      </attachments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="108" date-created="2007-11-19T09:42:07" date-modified="2007-11-19T09:44:31" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/11/19/89783.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Assassin's Creed]]></title>
+      <content type="text"><![CDATA[<p><a href="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/AssassinsCreed_95EA/image_4.png"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="122" alt="image" src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/AssassinsCreed_95EA/image_thumb_1.png" width="244" align="left" border="0" /></a> Sabato ho scoperto con gioia che finalmente è uscito il gioco che aspettavo da più di un anno.</p>  <p>Appena sono passato davanti ad una vetrina dove era esposto il manifesto non ho saputo resistere, sono entrato e l'ho comprato.</p>  <p>Purtroppo questo weekend ero a Firenze dove non ho una xbox360 su cui provarlo, mannaggia che rabbia, dovevo fare qualcosa!!!!!</p>  <p>Ad un certo punto il lampo di genio!!!  Ho chiamato <a href="http://blogs.devleap.com/luka/default.aspx">Luca</a> e mi sono fatto invitare a casa sua dove siamo riusciti a giocare alle prime schermate prima venire sfrattati dal salotto.</p>  <p>Le prime impressioni rispcchiano le aspettative, appena riuscirò a giocarci un po' vi aggiornerò nel frattempo se volete vedere un filmato lo trovate a questo indirizzo </p>  <p><a href="http://www.gamespot.com/video/930278/6181142/assassins-creed-official-movie-3">http://www.gamespot.com/video/930278/6181142/assassins-creed-official-movie-3</a>, mentre il sito ufficiale è questo <a title="http://assassinscreed.it.ubi.com/experience/" href="http://assassinscreed.it.ubi.com/experience/">http://assassinscreed.it.ubi.com/experience/</a>.<a href="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/AssassinsCreed_95EA/image_6.png"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="244" alt="image" src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/AssassinsCreed_95EA/image_thumb_2.png" width="147" align="right" border="0" /></a> </p>  <p>Purtroppo prima di potermi sfogare come voglio dovrò aspettare ancora qualche settimana, ormai da anni mi sono imposto la regola che posso giocare ad un solo gioco per anno e posso farlo solo nel periodo tra Natale e la befana.</p>]]></content>
+      <attachments>
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/AssassinsCreed_95EA/image_thumb_1.png" mime-type="image/png" external-uri="/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/AssassinsCreed_95EA/image_thumb_1.png" embedded="false" />
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/AssassinsCreed_95EA/image_thumb_2.png" mime-type="image/png" external-uri="/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/AssassinsCreed_95EA/image_thumb_2.png" embedded="false" />
+      </attachments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="109" date-created="2007-11-29T18:27:29" date-modified="2007-11-29T18:27:29" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/11/29/90019.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Novit&agrave; per ASP.NET e Silverlight]]></title>
+      <content type="text"><![CDATA[<p>ScottGu ha appena annunciato la roadmap per ASP.NET e Silverlight maggiori info sul blog <a href="http://blogs.msdn.com/italy/archive/2007/11/29/silverlight-2-0-e-asp-net-3-5-extensions.aspx">MSDN Italia</a></p>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="110" date-created="2007-12-06T17:56:27" date-modified="2007-12-06T17:56:27" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/12/06/90148.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Announcing PDC08]]></title>
+      <content type="text"><![CDATA[<p>Ancora non ci sono i dettagli ma io inizio a bloccarmi l'agenda :-) <a title="http://msdn2.microsoft.com/en-us/events/bb288534.aspx" href="http://msdn2.microsoft.com/en-us/events/bb288534.aspx">http://msdn2.microsoft.com/en-us/events/bb288534.aspx</a></p>  <p>GAB</p>  <h3> </h3>  <h3>PDC08</h3>  <h5>October 27–30, 2008    <br />Pre-conference October 26, 2008     <br />Los Angeles, California</h5>]]></content>
+      <comments>
+        <comment id="111" date-created="2007-12-07T08:02:13" date-modified="2007-12-07T08:02:13" approved="true" user-name="Raffaele Rialdi" user-url="http://blogs.ugidotnet.org/raffaele" user-email="malta@vevy.com">
+          <title type="text"><![CDATA[re: Announcing PDC08]]></title>
+          <content type="text"><![CDATA[ci puoi contare!]]></content>
+        </comment>
+        <comment id="112" date-created="2007-12-08T10:46:35" date-modified="2007-12-08T10:46:35" approved="true" user-name="Davide Senatore" user-url="http://www.codesapiens.net/" user-email="info@codesapiens.net">
+          <title type="text"><![CDATA[re: Announcing PDC08]]></title>
+          <content type="text"><![CDATA[Miiiii, magari!]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="113" date-created="2007-12-20T14:33:12" date-modified="2007-12-20T14:33:12" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2007/12/20/90386.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[La mia messenger presence sul blog]]></title>
+      <content type="text"><![CDATA[<p>Insieme ai miei colleghi ho deciso di aggiungere il mio stato messenger sul blog.</p>  <p>Se volete sapere come si può fare guardate il blog di <a href="http://blogs.msdn.com/pietrobr/archive/2007/12/20/come-mostrare-la-vostre-presenza-on-line-sul-vostro-sito.aspx">Pietro</a></p>  <p> </p>  <p>Gabriele</p>]]></content>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="114" date-created="2008-02-05T10:31:11" date-modified="2008-02-05T13:38:25" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2008/02/05/91021.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Microsoft Roundtable]]></title>
+      <content type="text"><![CDATA[<p>Ieri sera abbiamo avuto una riunione virtuale tra MVP Italiani, i team TechNet e il team MSDN e per la prima volta abbiamo utilizzato Office LiveMeeting 2007 e Microsoft RoundTable. </p>  <p>L'esperimento credo sia andato molto bene ... oltre le mie aspettative. La piattaforma che abbiamo usato dava proprio l'impressione di essere tutti riuniti ad un tavolo.   <br /></p>  <p>Questo è l'"oggetto" che avevamo al centro del tavolo:</p>  <p><img height="140" src="https://www.microsoft.com/presspass/presskits/uc/images/image034.jpg" width="102" /></p>  <p>Roundtable può essere collegata direttamente alla LAN oppure tramite connessione USB può essere collegata al PC e viene riconosciuta come una webcam (noi abbiamo scelto la seconda opzione per semplicità).</p>  <p>Dopo averla collegata all'interno di Livemeeting è subito disponibile la visione panoramica della riunione:</p>  <p><a href="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/MicrosoftRoundtable_A13B/image_2.png"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="52" alt="image" src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/MicrosoftRoundtable_A13B/image_thumb.png" width="351" border="0" /></a> </p>  <p>Questa è la sala riunioni sul nostro piano :-)</p>  <p>In una finestra separata automaticamente Roundtable seleziona e inquadra la persona che parla. Ecco alcuni esempi: nella prima foto parlo soltanto io mentre nella secondo parliamo sia io che Giorgio.</p>  <p><a href="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/MicrosoftRoundtable_A13B/image_4.png"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="149" alt="image" src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/MicrosoftRoundtable_A13B/image_thumb_1.png" width="185" border="0" /></a> <a href="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/MicrosoftRoundtable_A13B/image_6.png"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="150" alt="image" src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/MicrosoftRoundtable_A13B/image_thumb_2.png" width="182" border="0" /></a> </p>  <p>In questi anni per lavoro ho fatto tantissimi incontri "virtuali" dalle Chat alle classiche videoconferenze, ma devo dire che nessuna delle piattaforme che ho utilizzato in passato era paragonabile a quella utilizzata ieri sera. </p>  <p>Chiedete agli MVPs che erano presenti.</p>  <p>Adesso cercherò di capire se è possibile fare un meeting aperto a tutti.... magari dopo il lancio.</p>  <p>Gabriele</p>]]></content>
+      <trackbacks>
+        <trackback id="115" date-created="2008-02-07T14:34:22" date-modified="2008-02-07T14:34:22" approved="true" url="http://ugimobile.org/blogs/mighell/archive/2008/02/07/microsoft-roundtable.aspx">
+          <title type="text"><![CDATA[Microsoft Roundtable]]></title>
+        </trackback>
+      </trackbacks>
+      <attachments>
+        <attachment url="https://www.microsoft.com/presspass/presskits/uc/images/image034.jpg" mime-type="image/jpeg" external-uri="https://www.microsoft.com/presspass/presskits/uc/images/image034.jpg" embedded="false" />
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/MicrosoftRoundtable_A13B/image_thumb.png" mime-type="image/png" external-uri="/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/MicrosoftRoundtable_A13B/image_thumb.png" embedded="false" />
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/MicrosoftRoundtable_A13B/image_thumb_1.png" mime-type="image/png" external-uri="/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/MicrosoftRoundtable_A13B/image_thumb_1.png" embedded="false" />
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/MicrosoftRoundtable_A13B/image_thumb_2.png" mime-type="image/png" external-uri="/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/MicrosoftRoundtable_A13B/image_thumb_2.png" embedded="false" />
+      </attachments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="116" date-created="2008-04-24T15:51:33" date-modified="2008-04-24T15:51:33" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2008/04/24/92367.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[The Next Web Now ..... slides]]></title>
+      <content type="text"><![CDATA[<p><a mce_href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/TheNextWebNowLeslides_EF53/image_2.png" href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/TheNextWebNowLeslides_EF53/image_2.png"><img style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px 10px 0px 0px; BORDER-RIGHT-WIDTH: 0px" title="image" border="0" alt="image" align="left" width="244" height="184" mce_src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/TheNextWebNowLeslides_EF53/image_thumb.png" src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/TheNextWebNowLeslides_EF53/image_thumb.png" /></a> Ecco il <a target="_blank" mce_href="http://cid-2b05ef3f808f9cdd.skydrive.live.com/self.aspx/Public/Teh%20next%20web%20nox.pptx" href="http://cid-2b05ef3f808f9cdd.skydrive.live.com/self.aspx/Public/Teh%20next%20web%20nox.pptx">link</a> alle slides che ho utilizzato durante l'evento di ieri.</p>
+<p>Le slides delle altre sessioni le potete trovare su: <a title="http://blogs.msdn.com/italy/archive/2008/04/24/the-next-web-now-le-slides.aspx" mce_href="http://blogs.msdn.com/italy/archive/2008/04/24/the-next-web-now-le-slides.aspx" href="http://blogs.msdn.com/italy/archive/2008/04/24/the-next-web-now-le-slides.aspx">http://blogs.msdn.com/italy/archive/2008/04/24/the-next-web-now-le-slides.aspx</a></p>
+<p>Grazie a tutti</p>
+<p> Gabriele</p>
+<div class="entryviewfooter"></div>]]></content>
+      <comments>
+        <comment id="117" date-created="2008-04-25T09:09:45" date-modified="2008-04-25T09:09:45" approved="true" user-name="Omar Damiani" user-url="http://blogs.ugidotnet.org/odamiani" user-email="omar@omardamiani.it">
+          <title type="text"><![CDATA[re: The Next Web Now ..... slides]]></title>
+          <content type="text"><![CDATA[Grazie a te...<br /><br />...ma sai che non sapevo fossi di UGI anche tu!??!?<br /><br />Ottimo anche il fatto che le slide siano già disponibili ;)]]></content>
+        </comment>
+        <comment id="118" date-created="2008-04-26T09:28:58" date-modified="2008-04-26T09:28:59" approved="true" user-name="Moreno Borsalino" user-url="http://blogs.ugidotnet.org/borsalinomoreno" user-email="mborsalino@web.de">
+          <title type="text"><![CDATA[re: The Next Web Now ..... slides]]></title>
+          <content type="text"><![CDATA[E pensare che ho avuto occasione di parlarci insieme prima  della sessione insieme ad amici conosciuti sul posto. ]]></content>
+        </comment>
+        <comment id="119" date-created="2008-05-07T14:45:14" date-modified="2008-05-07T14:45:14" approved="true" user-name="GAB">
+          <title type="text"><![CDATA[re: The Next Web Now ..... slides]]></title>
+          <content type="text"><![CDATA[Mi sono preso un po' di giorni di ferie dopo il lancio e l'eveno scusate il ritado nella risposta.<br /><br />Si certo che sono di UGI ... purtroppo non faccio post quanto vorrei ... ma ho fatto un fioretto per i prossimi mesi :-)<br />]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="120" date-created="2008-05-22T14:57:44" date-modified="2008-05-22T14:57:44" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2008/05/22/92770.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[[OT] Si .... pu&ograve;.... fare!!!]]></title>
+      <content type="text"><![CDATA[<p><a href="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/OTSi....pu.fare_EC5E/clip_image001_2.jpg"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; margin: 0px 15px 0px 0px; border-right-width: 0px" title="clip_image001" border="0" alt="clip_image001" align="left" src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/OTSi....pu.fare_EC5E/clip_image001_thumb.jpg" width="181" height="137" /></a></p>  <p>Una delle cose che mi ha sempre lasciato un punto interrogativo in testa (tra le tante :-)) è quella di non essere mai riuscito a capire come completare il cubo di <a href="http://www.rubiks.com/" target="_blank">rubik</a>.</p>  <p>Una cosa stupida, ma di tanto in tanto mi capitava di pensarci. Il mese scorso guardando il film “Alla ricerca della felicità” (credo) mi è ripresa la voglia di cimentarmi nuovamente nella soluzione.</p>  <p>La molla finale è scattata lunedì mattina ore 6:30 Autogrill, in viaggio tra Firenze e Milano, ancora mezzo addormentato, pago il caffè e trovo sulla cassa “il cubo magico”.Morale della favola lunedì notte grazie ad un paio di ricerche su internet sono riuscito a risolverlo e adesso riesco a risolverlo con almeno tre metodi diversi :-)</p>  <p>Negli anni 80 internet non esisteva e devo ammettere che anche questa volta senza internet non ci sarei riuscito. Certo che è stato inventato nel 1974 .... ha praticamente la mia stessa età, complimenti a <a href="http://en.wikipedia.org/wiki/Ern%C5%91_Rubik">Ernő Rubik</a>. </p>  <p>Avendo avuto la soluzione a portata di mano avrebbe avuto lo stesso fascino?</p>  <p>Gabriele</p>  <p>PS La soluzione che preferisco? ....il metodo <a href="http://en.wikipedia.org/wiki/Jessica_Fridrich" target="_blank">Fridrich</a>.</p>]]></content>
+      <comments>
+        <comment id="121" date-created="2008-05-22T17:27:09" date-modified="2008-05-22T17:27:09" approved="true" user-name="Massimo Prota" user-url="http://blogs.ugidotnet.org/mprota" user-email="massimo.prota@slashdev.it">
+          <title type="text"><![CDATA[re: [OT] Si .... pu&#242;.... fare!!!]]></title>
+          <content type="text"><![CDATA[Anche lo stesso Rubik la prima volta ci mise un mese a risolverlo, pensando a un certo punto che non si potesse risolvere :)<br />Io utilizzo solitamente un metodo che mi sembra sia molto vicino al Petrus (non conoscevo questi nomi, l'ho visto ora su wikipedia).<br />Comunque più che magico è proprio un rompicapo bstrd! :D]]></content>
+        </comment>
+        <comment id="122" date-created="2008-05-23T12:33:03" date-modified="2008-05-23T12:33:03" approved="true" user-name="Andrea">
+          <title type="text"><![CDATA[re: [OT] Si .... pu&#242;.... fare!!!]]></title>
+          <content type="text"><![CDATA[Quest'anno è stato abbassato il record mondiale a poco meno di 9 secondi:<br />http://it.youtube.com/watch?v=J25n7OOdnMI]]></content>
+        </comment>
+        <comment id="123" date-created="2008-05-23T12:41:49" date-modified="2008-05-23T12:41:49" approved="true" user-name="Gabriele">
+          <title type="text"><![CDATA[re: [OT] Si .... pu&#242;.... fare!!!]]></title>
+          <content type="text"><![CDATA[OK sono acora leggermente lontano da 9 secondi ;-)<br /><br />GAB]]></content>
+        </comment>
+        <comment id="124" date-created="2010-06-09T06:16:52" date-modified="2010-06-09T06:16:53" approved="true" user-name="Guru" user-url="http://hertelden.com/" user-email="herteldenblog@gmail.com">
+          <title type="text"><![CDATA[re: [OT] Si .... pu&#242;.... fare!!!]]></title>
+          <content type="text"><![CDATA[Beautiful Days. Per tutti :)]]></content>
+        </comment>
+      </comments>
+      <attachments>
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/OTSi....pu.fare_EC5E/clip_image001_thumb.jpg" mime-type="image/jpeg" external-uri="/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/OTSi....pu.fare_EC5E/clip_image001_thumb.jpg" embedded="false" />
+      </attachments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="125" date-created="2009-03-25T22:47:08" date-modified="2009-03-26T13:09:34" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2009/03/25/chi-sono.aspx" type="article" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Chi Sono]]></title>
+      <content type="text"><![CDATA[<p style="FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13px; MARGIN-RIGHT: 20px"><font face="Arial"><img alt="Foto" src="http://blogs.msdn.com/photos/italy/images/5490354/thumb.aspx" /></font></p>
+<p style="FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13px; MARGIN-RIGHT: 20px">Gabriele Castellani lavora in Microsoft dal 2001 ha iniziato nella divisione MSN italia con il ruolo di MSN Italy Technology Officer e successivamente si è spostato nella divisione Developer &amp; Platform Evangelism (DPE) dove ha ricoperto il ruolo di ISV Developer Evangelist e di Web Architect Evangelist. </p>
+<p style="FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13px; MARGIN-RIGHT: 20px">Attualmente nella divisione DPE ha assunto il ruolo di Developer Community and ITPro Evangelism Lead dove si occupa di coordinare le attività rivolte agli sviluppatori e ai professionisti IT. </p>
+<p style="FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13px; MARGIN-RIGHT: 20px">Si occupa della tecnologia .Net da quando è stata rilasciata ed in particolare si occupa di tematiche legate allo sviluppo web. </p>
+<p style="FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13px; MARGIN-RIGHT: 20px"> </p>]]></content>
+      <post-name type="text"><![CDATA[chi-sono]]></post-name>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="126" date-created="2011-03-13T18:30:05" date-modified="2011-03-13T18:30:53" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2011/03/13/reborn.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Reborn]]></title>
+      <content type="text"><![CDATA[<p>Rieccomi è tanto che mi ripromettevo di riprendere a bloggare ma poi per un motivo o per l’altro non iniziavo mai.</p>  <p>Era uno dei buoni propositi del 2011 che rischiavano di rimanere tali.</p>  <p>Per darmi una scossa qualche giorno fa ho registrato un video e ci ho inserito una bella frase “questo lo trovate sul mio blog” <img style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" class="wlEmoticon wlEmoticon-smile" alt="Smile" src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Reborn_11039/wlEmoticon-smile_2.png" /></p>  <p> </p>  <p>Bene, ben ritrovati a tutti e per chi è arrivato su UGI dopo che ho smesso di bloggare mi ripresento:</p>  <p>sono Gabriele lavoro in Microsoft nel gruppo DPE. Attualemte mi occupo principalmente di sviluppo web e siviluppo su Windows Phone 7 se cercate il mio sito personale lo trovate qui <a href="http://www.gabrielecastellani.it">www.gabrielecastellani.it</a> (appena rifatto con WebMatrix).</p>  <p>Vi presento anche Artemisia la mia piccola carlina nera:</p>  <p><a title="Untitled by *GAB*, on Flickr" href="http://www.flickr.com/photos/-gab-/5511604994/"><img alt="" src="http://farm6.static.flickr.com/5091/5511604994_341e30dc0d.jpg" width="500" height="337" /></a></p>  <p>Spero che questo sia il primo di una serie di post e spero che li riterrete interessanti (I prossimi <img style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none" class="wlEmoticon wlEmoticon-smile" alt="Smile" src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Reborn_11039/wlEmoticon-smile_2.png" />).</p>  <p>Al prossimo</p>]]></content>
+      <post-name type="text"><![CDATA[reborn]]></post-name>
+      <comments>
+        <comment id="127" date-created="2011-03-14T00:35:02" date-modified="2011-03-14T00:35:03" approved="true" user-name="Nicol&amp;#242; Carandini" user-url="http://blogs.ugidotnet.org/Nick60/Default.aspx" user-email="n.carandini@torrimpietra.it">
+          <title type="text"><![CDATA[re: Reborn]]></title>
+          <content type="text"><![CDATA[Ciao Gab, ben tornato!<br />Sono contento che il buon vecchio muro UGI ti riannoveri tra i suoi bloggers.<br />Facci sognare... !]]></content>
+        </comment>
+        <comment id="128" date-created="2011-03-14T22:29:33" date-modified="2011-03-14T22:29:33" approved="true" user-name="Andrea Angella" user-url="http://www.angellaa.it/" user-email="angella.andrea@gmail.com">
+          <title type="text"><![CDATA[re: Reborn]]></title>
+          <content type="text"><![CDATA[Ciao Gabriele e ben tornato !!]]></content>
+        </comment>
+        <comment id="129" date-created="2011-05-18T05:31:53" date-modified="2011-05-18T05:31:57" approved="true" user-name="forklift" user-url="http://www.forklifts-china.com/" user-email="wu152504@126.com">
+          <title type="text"><![CDATA[re: Reborn]]></title>
+          <content type="text"><![CDATA[Sono contento che il buon vecchio muro UGI ti riannoveri tra i suoi bloggers.<br />Facci sognare... ! ]]></content>
+        </comment>
+      </comments>
+      <attachments>
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Reborn_11039/wlEmoticon-smile_2.png" mime-type="image/png" external-uri="/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Reborn_11039/wlEmoticon-smile_2.png" embedded="false" />
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Reborn_11039/wlEmoticon-smile_2.png" mime-type="image/png" external-uri="/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Reborn_11039/wlEmoticon-smile_2.png" embedded="false" />
+      </attachments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="130" date-created="2011-03-15T16:00:00" date-modified="2011-03-14T12:18:11" approved="true" post-url="http://blogs.ugidotnet.org/gabrielc/archive/2011/03/15/video-tutorial-su-webmatrix.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Video tutorial su WebMatrix]]></title>
+      <content type="text"><![CDATA[<p>Durante il <a href="http://www.microsoft.it/webcamps">WebCamp Online</a> di martedì 15 Marzo verrà pubblicata la mia sessione su WebMatrix in cui spiego come realizzare un semplice sito web utilizzando ASP.NET Web Pages e la sintassi Razor.</p>  <p>Durante il video faccio vedere una serie di piccoli esempi utili per chi vuole iniziare a sviluppare.</p>  <p>In particolare utilizzo un progetto che ho creato appositamente di <a href="http://cid-2b05ef3f808f9cdd.office.live.com/self.aspx/.Public/EsempiDiCodicePerWebMatrix.zip">esempi di codice per WebMatrix</a>.</p>  <p>Inoltre faccio riferimento ad un tutorial molto completo in Inglese: <a href="http://trainingkit.webcamps.ms/Presentations/Razor%20E-book/ASPNETWebPagesWithRazorSyntax-Book-Beta3.pdf">Asp.NET Web Pages Using The Razor Syntax</a></p>  <p>Trovo la programmazione con WebMatrix e ASP.NET Web Pages divertentissima ed ho realizzato il mio nuovo sito proprio seguendo il tutorial sopra citato <a href="http://www.gabrielecastellani.it">www.gabrielecastellani.it</a></p>  <p>Capisco che i puristi del web storceranno il naso e non lo consiglierei mai per progetti complessi.</p>  <p>Tuttavia per progetti semplici come il mio, lo trovo un tool divertente e semplice che mi ricorda tanto i miei passati con AspClassic.</p>  <p>Inoltre con Visual Studio 2010 SP1 posso aprire gli stessi progetti ed avere debugger e intellisense.</p>  <p>GAB</p>]]></content>
+      <post-name type="text"><![CDATA[video-tutorial-su-webmatrix]]></post-name>
+      <categories>
+        <category ref="1" />
+      </categories>
+      <comments>
+        <comment id="131" date-created="2011-03-21T15:37:00" date-modified="2011-03-21T15:37:03" approved="true" user-name="Botticelli Giovanni" user-email="giovanni.botticellir@alice.it;giovanni.botticelli@bnlmail.com">
+          <title type="text"><![CDATA[re: Video tutorial su WebMatrix]]></title>
+          <content type="text"><![CDATA[Complimenti per il tutorial, e per il tuo passato AspClassic.<br />Io ancora lo sto usando con molte problematiche specialmente ora che ho acquistato un nuovo pc con windows 7 Professional 64bit.(Db Access)<br />Mi ha molto incuriosito WebMatrix, potresti gentilmente farmi dei step per iniziare.<br />Ho scaricato webmatrix.exe &#232; possibile solo 93 kb?<br />Con Webmatrix, IIS non serve pi&#249;?<br />Grazie per il tuo aiuto, invio cordiali saluti<br />Giovanni Botticelli]]></content>
+        </comment>
+      </comments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="132" date-created="2011-03-14T15:58:17" date-modified="2011-03-14T15:58:17" approved="false" post-url="http://blogs.ugidotnet.org/gabrielc/archive/0001/01/01/ie9-egrave-completo.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[IE9 &egrave; completo]]></title>
+      <content type="text"><![CDATA[<p>A questo indirizzo è possibile scaricare la versione finale di IE9:</p>  <p> </p>  <p>Per approfondire le tematiche del web e dell’HTML5 vi segnalo l’evento online di domani Martedì 15</p>  <p><a href="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/IE9--completo_E864/image_2.png"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/IE9--completo_E864/image_thumb.png" width="244" height="180" /></a></p>  <p>Da notare che avremmo centinaia di magliette HTML5 sponsorizzate da IE9 che potrete ricevere</p>  <p><a href="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/IE9--completo_E864/image_4.png"><img style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/IE9--completo_E864/image_thumb_1.png" width="244" height="204" /></a></p>  <p> </p>  <p>Poi seguiranno alcuni post sull’argomento.</p>  <p> </p>  <p>Ci vediamo online</p>  <p> </p>  <p>GAB</p>]]></content>
+      <post-name type="text"><![CDATA[ie9-egrave-completo]]></post-name>
+      <attachments>
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/IE9--completo_E864/image_thumb.png" mime-type="image/png" external-uri="/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/IE9--completo_E864/image_thumb.png" embedded="false" />
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/IE9--completo_E864/image_thumb_1.png" mime-type="image/png" external-uri="/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/IE9--completo_E864/image_thumb_1.png" embedded="false" />
+      </attachments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="133" date-created="2011-03-14T18:20:17" date-modified="2011-03-14T18:20:17" approved="false" post-url="http://blogs.ugidotnet.org/gabrielc/archive/0001/01/01/perchegrave-ie9-si-ferma-a-95-nel-test-acid3.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Perch&egrave; IE9 si ferma a 95 nel test ACID3]]></title>
+      <content type="text"><![CDATA[<p> </p>  <p> </p>  <p> </p>  <p><a href="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_2.png"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_thumb.png" width="244" height="166" /></a></p>]]></content>
+      <post-name type="text"><![CDATA[perchegrave-ie9-si-ferma-a-95-nel-test-acid3]]></post-name>
+      <attachments>
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_thumb.png" mime-type="image/png" external-uri="/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_thumb.png" embedded="false" />
+      </attachments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="133" date-created="2011-03-14T18:20:17" date-modified="2011-03-14T18:20:17" approved="false" post-url="http://blogs.ugidotnet.org/gabrielc/archive/0001/01/01/perchegrave-ie9-si-ferma-a-95-nel-test-acid3.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Perch&egrave; IE9 si ferma a 95 nel test ACID3]]></title>
+      <content type="text"><![CDATA[<p> </p>  <p> </p>  <p> </p>  <p><a href="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_2.png"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_thumb.png" width="244" height="166" /></a></p>]]></content>
+      <post-name type="text"><![CDATA[perchegrave-ie9-si-ferma-a-95-nel-test-acid3]]></post-name>
+      <attachments>
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_thumb.png" mime-type="image/png" external-uri="/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_thumb.png" embedded="false" />
+      </attachments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="133" date-created="2011-03-14T18:20:17" date-modified="2011-03-14T18:20:17" approved="false" post-url="http://blogs.ugidotnet.org/gabrielc/archive/0001/01/01/perchegrave-ie9-si-ferma-a-95-nel-test-acid3.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Perch&egrave; IE9 si ferma a 95 nel test ACID3]]></title>
+      <content type="text"><![CDATA[<p> </p>  <p> </p>  <p> </p>  <p><a href="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_2.png"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_thumb.png" width="244" height="166" /></a></p>]]></content>
+      <post-name type="text"><![CDATA[perchegrave-ie9-si-ferma-a-95-nel-test-acid3]]></post-name>
+      <attachments>
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_thumb.png" mime-type="image/png" external-uri="/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_thumb.png" embedded="false" />
+      </attachments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="133" date-created="2011-03-14T18:20:17" date-modified="2011-03-14T18:20:17" approved="false" post-url="http://blogs.ugidotnet.org/gabrielc/archive/0001/01/01/perchegrave-ie9-si-ferma-a-95-nel-test-acid3.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Perch&egrave; IE9 si ferma a 95 nel test ACID3]]></title>
+      <content type="text"><![CDATA[<p> </p>  <p> </p>  <p> </p>  <p><a href="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_2.png"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_thumb.png" width="244" height="166" /></a></p>]]></content>
+      <post-name type="text"><![CDATA[perchegrave-ie9-si-ferma-a-95-nel-test-acid3]]></post-name>
+      <attachments>
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_thumb.png" mime-type="image/png" external-uri="/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_thumb.png" embedded="false" />
+      </attachments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+    <post id="133" date-created="2011-03-14T18:20:17" date-modified="2011-03-14T18:20:17" approved="false" post-url="http://blogs.ugidotnet.org/gabrielc/archive/0001/01/01/perchegrave-ie9-si-ferma-a-95-nel-test-acid3.aspx" type="normal" hasexcerpt="false" views="0">
+      <title type="text"><![CDATA[Perch&egrave; IE9 si ferma a 95 nel test ACID3]]></title>
+      <content type="text"><![CDATA[<p> </p>  <p> </p>  <p> </p>  <p><a href="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_2.png"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_thumb.png" width="244" height="166" /></a></p>]]></content>
+      <post-name type="text"><![CDATA[perchegrave-ie9-si-ferma-a-95-nel-test-acid3]]></post-name>
+      <attachments>
+        <attachment url="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_thumb.png" mime-type="image/png" external-uri="/images/blogs_ugidotnet_org/gabrielc/Windows-Live-Writer/Perch-IE9-si-ferma-a-95-nel-test-ACID3_10A24/image_thumb.png" embedded="false" />
+      </attachments>
+      <authors>
+        <author ref="1" />
+      </authors>
+    </post>
+  </posts>
+</blog>
