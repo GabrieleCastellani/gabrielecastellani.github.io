@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Slides ASP.NET"
+date: 2006-05-24 13:28:00 +0200
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2006/05/24/41493.aspx"]
+---
+<!-- more -->
+{% include imported_disclaimer.html %}
+<P>Ecco il link per scaricare le slides </P>
+<P><A href="http://www.gabrielecastellani.com/asp_net.zip">http://www.gabrielecastellani.com/asp_net.zip</A></P>
+<P><A href="http://www.gabrielecastellani.com/VS2005forVB6.zip">http://www.gabrielecastellani.com/VS2005forVB6.zip</A></P>
+<P><A href="http://www.gabrielecastellani.com/clickonce.zip">http://www.gabrielecastellani.com/clickonce.zip</A></P>
+<P><A href="http://www.gabrielecastellani.com/Step Demo.zip">http://www.gabrielecastellani.com/Step Demo.zip</A></P>
+<P>Page LifeCycle <A href="http://msdn2.microsoft.com/en-us/ms178472(VS.80).aspx">http://msdn2.microsoft.com/en-us/ms178472(VS.80).aspx</A></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>

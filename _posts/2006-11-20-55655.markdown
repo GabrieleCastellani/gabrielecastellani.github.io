@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Scrivere XAML"
+date: 2006-11-20 14:11:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2006/11/20/55655.aspx"]
+---
+<!-- more -->
+{% include imported_disclaimer.html %}
+<P>Prendo spunto da un post di <A href="http://blog.boschin.it/archive/2006/11/17/4701.aspx">Andrea Boschin</A> per fare alcune considerazioni su WPF e XAML.<BR>In linea di massima concordo con Andrea e devo dire che prima di provare a scrivere un po' di XAML facevo parte anch'io delle persone che credevano che scrivere XAML fosse molto difficile e poco produttivo. Devo dire che mi sono dovuto ricredere velocemente. Appena ho iniziato mi sono reso conto che era molto pi&#249; facile di quanto pensassi :-) </P>
+<P>Un sabato mattina ho aperto un nuovo progetto Visual Studio e ho detto "proviamo" dopo pochi minuti mi sembrava di essere tornato indietro di una decina di anni, quando iniziavo a sviluppare in HTML. La sensazione &#232; esattamente quella di sviluppare in HTML con una sintassi diversa. All'inizio si continua a consultare help ed esempi per riuscire a disegnare quello che si ha in mente. Il numero di copia e incolla si sprecano :-) Poi si prende il via e non si smette pi&#249; (esattamente quello che &#232; successo nel 96 quando mi sono cimentato con le prime pagine HTML).</P>
+<P>Adesso devo dire che il mio rapporto con XAML &#232; molto simile a quello che ho con l'HTML. Quando devo creare una pagina web alla fine preferisco scrivere HTML direttamente e non utilizzare un designer se non per qualche ritocco alla fine del progetto. Stessa cosa per XAML scrivo XAML e magari uso interactive designer per ritoccare gli stili.</P>
+<P>E' chiaro che bisogna incominciare per passi quindi quello che consiglio alla luce della mia esperienza &#232; di prendere un'idea semplice e di provare a realizzarla partendo con XAML Pad e VS2005 (per la parte di intellisense) e un sample preso dall'SDK da cui fare copia ed incolla. Io ho scelto"PhotoStoreDemo" ed il login screen.</P>
+<P>Un giorno magari riuscir&#242; anche a finire il progetto che ho incominciato&nbsp;e lo metter&#242; pubblico ... mi mancano ancora un paio di nottate :-)<BR></P>

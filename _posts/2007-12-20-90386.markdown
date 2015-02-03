@@ -1,0 +1,13 @@
+---
+layout: post
+title: "La mia messenger presence sul blog"
+date: 2007-12-20 14:33:12 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2007/12/20/90386.aspx"]
+---
+<!-- more -->
+{% include imported_disclaimer.html %}
+<p>Insieme ai miei colleghi ho deciso di aggiungere il mio stato messenger sul blog.</p>  <p>Se volete sapere come si può fare guardate il blog di <a href="http://blogs.msdn.com/pietrobr/archive/2007/12/20/come-mostrare-la-vostre-presenza-on-line-sul-vostro-sito.aspx">Pietro</a></p>  <p> </p>  <p>Gabriele</p>

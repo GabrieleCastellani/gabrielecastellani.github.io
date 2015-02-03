@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Announcing PDC08"
+date: 2007-12-06 17:56:27 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2007/12/06/90148.aspx"]
+---
+<!-- more -->
+{% include imported_disclaimer.html %}
+<p>Ancora non ci sono i dettagli ma io inizio a bloccarmi l'agenda :-) <a title="http://msdn2.microsoft.com/en-us/events/bb288534.aspx" href="http://msdn2.microsoft.com/en-us/events/bb288534.aspx">http://msdn2.microsoft.com/en-us/events/bb288534.aspx</a></p>  <p>GAB</p>  <h3> </h3>  <h3>PDC08</h3>  <h5>October 27–30, 2008    <br />Pre-conference October 26, 2008     <br />Los Angeles, California</h5>

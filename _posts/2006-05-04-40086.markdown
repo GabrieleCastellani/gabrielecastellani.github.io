@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Windows Vista Webcast Series"
+date: 2006-05-04 23:00:00 +0200
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2006/05/05/40086.aspx"]
+---
+<!-- more -->
+{% include imported_disclaimer.html %}
+<div align="left" xmlns="http://www.w3.org/1999/xhtml">Come segnalato da <a href="http://blogs.devleap.com/marco/archive/2006/05/04/7355.aspx">Marco</a> domani inizieremo una serie di webcast di approfondimento su Windows Vista e WinFx che proseguirà fino a fine Luglio (probabilmente anche oltre).</div>
+<div align="left" xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div align="left" xmlns="http://www.w3.org/1999/xhtml">Se volete maggiori informazioni abbiamo creato una <a href="http://www.microsoft.com/italy/msdn/risorsemsdn/windowsvista/default.mspx">sezione del sito MSDN dedicata</a> per il momento abbiamo pubblicato gli appuntamenti di Maggio ma entro un paio di giorni completeremo il percorso con I titoli programmati fino a Luglio.</div>
+<div align="left" xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div align="left" xmlns="http://www.w3.org/1999/xhtml"> </div>

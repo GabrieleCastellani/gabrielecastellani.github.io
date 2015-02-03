@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Digital BlackBelt Security WebCast Series"
+date: 2005-01-21 17:46:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2005/01/21/9862.aspx"]
+---
+<!-- more -->
+{% include imported_disclaimer.html %}
+<CENTER><A title="Digital BlackBelt Webcast Series" href="http://www.microsoft.com/seminar/events/series/digitalblackbelt.mspx" target=_blank><IMG height=240 src="http://www.managedcode.com/ads/DBB_120x240.gif" width=120 border=0></A> </CENTER>
