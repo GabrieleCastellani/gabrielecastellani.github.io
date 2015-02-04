@@ -9,14 +9,10 @@ I use this links during ISV Accelleration Labs that we are hosting in Italy for 
 
 This is the collection of the common question I receive during these labs.
 
-This is a selection of the full links on the OneNote file [AccLab](https://aka.ms/AccLab) that we use during the Lab.
 
-#Common question:
----------
-
-#Azure
-1. Infrastructure as a Service
-2. Azure Platform as a Service
+### Azure [Azure] ##
+1. [Infrastructure as a Service](#Azure)
+2. Platform as a Service
 
 #Mobile
 1. Mobile serices
