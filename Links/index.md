@@ -12,6 +12,7 @@ This is the collection of the common question I receive during these labs.
 
 ### Azure [Azure] ##
 1. [Infrastructure as a Service](#Azure)
+   1.[ ] pppppp
 2. Platform as a Service
 
 #Mobile
