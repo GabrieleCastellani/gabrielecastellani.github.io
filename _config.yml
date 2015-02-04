@@ -16,7 +16,7 @@ disqus_show_comment_count: true
 #
 markdown: redcarpet
 permalink: /archive/:year/:month/:day/:title/
-paginate: 10
+paginate: 5
 paginate_path: "page/:num"
 category_dir: categories
 
