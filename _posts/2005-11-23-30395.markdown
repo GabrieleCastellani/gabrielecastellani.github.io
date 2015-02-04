@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Demo Lancio VS2005 Web"
+date: 2005-11-23 07:28:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2005/11/23/30395.aspx"]
+---
+<!-- more -->
+{% include imported_disclaimer.html %}
+<P>Potete trovare i sorgenti della demo qui <A href="http://workspaces.gotdotnet.com/smartestate">http://workspaces.gotdotnet.com/smartestate</A></P>
+<P>GAB</P>

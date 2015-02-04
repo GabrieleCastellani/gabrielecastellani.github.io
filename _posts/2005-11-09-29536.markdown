@@ -1,0 +1,16 @@
+---
+layout: post
+title: "ASP.NET 2.0 PayPal Commerce Starter Kit "
+date: 2005-11-09 08:30:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2005/11/09/29536.aspx"]
+---
+<!-- more -->
+{% include imported_disclaimer.html %}
+<P>Riporto dal blog si ScottGu</P>
+<P><FONT size=2>One of the really cool starter kits that shipped on the web this week is the Commerce Starter Kit built by PayPal.&nbsp; You can download and learn about it here: </FONT><A href="http://www.commercestarterkit.org/"><FONT size=2>http://www.commercestarterkit.org/</FONT></A></P>
+<P><FONT size=2>It ships as a .vsi download -- which means that if you have <A href="http://www.asp.net/default.aspx?tabindex=7&amp;tabid=46">Visual Web Developer</A> or VS 2005 installed you can just do "New Web Site", pick the Commerce Starter Kit, and immediately get a working commerce site w/ PayPal payment integration.</FONT></P>
+<P><FONT size=2>The starter kit is a full-blown ASP.NET 2.0 app, and shows off using the new ASP.NET Master Pages, Login/Membership, Role Management, Profile, ObjectDataSource, and data access features.&nbsp; The end result is a&nbsp;very clean app that is really easy to customize and use.&nbsp; Best of all it is free.</FONT></P>

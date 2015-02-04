@@ -1,0 +1,17 @@
+---
+layout: post
+title: "The Next Web Now ..... slides"
+date: 2008-04-24 15:51:33 +0200
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2008/04/24/92367.aspx"]
+---
+<!-- more -->
+{% include imported_disclaimer.html %}
+<p><a mce_href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/TheNextWebNowLeslides_EF53/image_2.png" href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/TheNextWebNowLeslides_EF53/image_2.png"><img style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px 10px 0px 0px; BORDER-RIGHT-WIDTH: 0px" title="image" border="0" alt="image" align="left" width="244" height="184" mce_src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/TheNextWebNowLeslides_EF53/image_thumb.png" src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/TheNextWebNowLeslides_EF53/image_thumb.png" /></a> Ecco il <a target="_blank" mce_href="http://cid-2b05ef3f808f9cdd.skydrive.live.com/self.aspx/Public/Teh%20next%20web%20nox.pptx" href="http://cid-2b05ef3f808f9cdd.skydrive.live.com/self.aspx/Public/Teh%20next%20web%20nox.pptx">link</a> alle slides che ho utilizzato durante l'evento di ieri.</p>
+<p>Le slides delle altre sessioni le potete trovare su: <a title="http://blogs.msdn.com/italy/archive/2008/04/24/the-next-web-now-le-slides.aspx" mce_href="http://blogs.msdn.com/italy/archive/2008/04/24/the-next-web-now-le-slides.aspx" href="http://blogs.msdn.com/italy/archive/2008/04/24/the-next-web-now-le-slides.aspx">http://blogs.msdn.com/italy/archive/2008/04/24/the-next-web-now-le-slides.aspx</a></p>
+<p>Grazie a tutti</p>
+<p> Gabriele</p>
+<div class="entryviewfooter"></div>

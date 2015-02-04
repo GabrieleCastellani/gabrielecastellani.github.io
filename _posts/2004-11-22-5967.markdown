@@ -1,0 +1,13 @@
+---
+layout: post
+title: "WINFX Avalon CTP is released"
+date: 2004-11-22 18:01:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2004/11/22/5967.aspx"]
+---
+<!-- more -->
+{% include imported_disclaimer.html %}
+<div xmlns="http://www.w3.org/1999/xhtml"><a href="http://msdn.microsoft.com/longhorn">http://msdn.microsoft.com/longhorn</a></div>

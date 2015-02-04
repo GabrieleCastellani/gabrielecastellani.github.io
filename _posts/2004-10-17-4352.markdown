@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Dotnetnuke"
+date: 2004-10-17 12:55:00 +0200
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2004/10/17/4352.aspx"]
+---
+<!-- more -->
+{% include imported_disclaimer.html %}
+<div xmlns="http://www.w3.org/1999/xhtml">Purtroppo i miei webcast su DotNetNuke sono andati persi durante il cambio di piattaforma.</div>
+<div xmlns="http://www.w3.org/1999/xhtml">Durante le ultime settimane ho ricevuto tantissime mail di persone che erano interessate ai miei webcast e non riuscivano più a trovarli.</div>
+<div xmlns="http://www.w3.org/1999/xhtml">Appena mi sono rimesso a sistemare il materiale è stata annunciata la versione 3 di DotNetNuke e quindi ho diciso di aspettare e di rifare I webcast direttamente sulla versione nuova.</div>
+<div xmlns="http://www.w3.org/1999/xhtml">Penso di decidere le date entro una decina di giorni.</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
