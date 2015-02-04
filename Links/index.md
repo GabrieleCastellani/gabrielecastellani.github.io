@@ -24,4 +24,9 @@ This is the collection of the common question I receive during these labs.
 1. Mobile serices
 
 #Authentication & Authorization
-1. Mobile serices
+1. Mobile serice
+
+
+
+azure
+------
