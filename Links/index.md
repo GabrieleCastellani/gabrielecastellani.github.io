@@ -10,8 +10,8 @@ I use this links during ISV Accelleration Labs that we are hosting in Italy for 
 This is the collection of the common question I receive during these labs.
 
 
-### Azure [Azure] ##
-1. [Infrastructure as a Service](#Azure)
+# Azure 
+1. [Infrastructure as a Service]()
 2. Platform as a Service
 
 #Mobile
@@ -25,3 +25,7 @@ This is the collection of the common question I receive during these labs.
 
 #Authentication & Authorization
 1. Mobile serices
+
+
+
+# Infrastructure as a Service
