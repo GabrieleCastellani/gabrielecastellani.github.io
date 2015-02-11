@@ -12,7 +12,7 @@ permalink: /migrationguide/
 
 
 
-###Guide
+##Guide
 Let's start to see if we can Use Azure WebSites. WebSites have some neat features that will simplify your develpment and your administration. If WebSites doesn't fit into your solution during this document you'll be redirected to Cloud Srvices and than to plain Virtual Machines.
 
 - [Migration of the Front-End](/migrationguide/Websites/)
