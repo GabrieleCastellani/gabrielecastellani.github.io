@@ -5,7 +5,7 @@ permalink: /migrationguide/
 # Migration of a typical Web App #
 
 ## Architecture ##
-	
+    
 - Front-End: Web Application (Asp.Net)
 - Database: Local Sql Server
 - Services: A local Windows Services
@@ -21,8 +21,6 @@ Now we have to migrate the database. Let's start to see if we can you Azure SQL 
 
 - [Migration of the database](/migrationguide/SQL-database/)
 
-The last part of a typical application are periodic task and log running task. In a traditional architecure this is generally achieved by implemending a Windows Service and a Queue System but in the cloud there are many smarter things we can do.
+The last part of a typical application are periodic task and log running task. In a traditional architecture this is generally achieved by implementing a Windows Service and a Queue System but in the cloud there are many smarter things we can do.
 
 - [Migration of App Services](/migrationguide/services/)
-
-

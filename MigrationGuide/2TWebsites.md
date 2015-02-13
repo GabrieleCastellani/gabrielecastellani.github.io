@@ -7,7 +7,7 @@ permalink: /migrationguide/Websites/
 #Migrating Front-end using Azure WebSites
 
 
-Let's first analyze some tipical application patterns to see at high level if we can use WebSites.
+Let's first analyze some typical application patterns to see at high level if we can use WebSites.
 
 
 -----
@@ -18,9 +18,9 @@ The Web application need setup of components?
 - Do you need a setup of custom Fonts? If you are using in .Net you can loading at runtime otherwise consider [Cloud Services Guide](/migrationguide/cloud-services/)
 - Do you need the setup of a custom windows service? If you have the source code of this service we will cover it later in a doc. 
 
-The Web application need to comunicate on custom TCP/IP Port?
+The Web application need to communicate on custom TCP/IP Port?
 
-- If you need to comunicate on ports different from 80 and 443 consider [Cloud Services Guide](/migrationguide/cloud-services/)
+- If you need to communicate on ports different from 80 and 443 consider [Cloud Services Guide](/migrationguide/cloud-services/)
 
 
 ##Prerequisites
@@ -48,9 +48,9 @@ Now that we have successfully deployed our web app there are few things we can t
 ##Things to check
 - **PDF Generation** Most of PDF libraries works on a _Basic/Standard_ WebSites but some don't. So better to check :-).
 - **Editing files on local filesystem** a better patter to consider to use Azure Storage [How to use Blob Storage from .NET ](http://azure.microsoft.com/en-us/documentation/articles/storage-dotnet-how-to-use-blobs/)
-- **ASP.Net Session** Azure Websites use a cookie based session affinity. It handle session on multple istance pointing the same user to the same server. The name of the cookie is *ARRAffinity*. If you need to disable session affinity check [Disabling ARR’s Instance Affinity](http://azure.microsoft.com/blog/2013/11/18/disabling-arrs-instance-affinity-in-windows-azure-web-sites/). Another option is to disable session affinity and use [Redis cache ASP.net session provider](http://azure.microsoft.com/it-it/documentation/articles/cache-dotnet-how-to-use-azure-redis-cache/#store-session) 
+- **ASP.Net Session** Azure Websites use a cookie based session affinity. It handle session on multiple instance pointing the same user to the same server. The name of the cookie is *ARRAffinity*. If you need to disable session affinity check [Disabling ARR’s Instance Affinity](http://azure.microsoft.com/blog/2013/11/18/disabling-arrs-instance-affinity-in-windows-azure-web-sites/). Another option is to disable session affinity and use [Redis cache ASP.net session provider](http://azure.microsoft.com/it-it/documentation/articles/cache-dotnet-how-to-use-azure-redis-cache/#store-session) 
 - Configure HTTPS
-- Understandig the Web Hosting plan
+- Understanding the Web Hosting plan
 - Tune The Application
 
 ##Improvements
@@ -60,5 +60,3 @@ Now that we have successfully deployed our web app there are few things we can t
 - Upload of large files on azure storage. 
 - [Multiple Virtual directories](http://blogs.msdn.com/b/tomholl/archive/2014/09/22/deploying-multiple-virtual-directories-to-a-single-azure-website.aspx)
 - [Change WebHosting plan with PowerShell](http://stackoverflow.com/questions/24892220/change-azure-website-web-hosting-plan-mode-using-powershell)
-
-

@@ -14,16 +14,16 @@ permalink: /migrationguide/SQL-database/
 #Migrating database tier using SQL Database
 
 
-Let's first analyze some tipical SQL patterns to see at high level if we can use SQL Database.
+Let's first analyze some typical SQL patterns to see at high level if we can use SQL Database.
 
 
 -----
 ##Quick Questions
-###Do you use some of this components of SQL Server Databse?
+###Do you use some of this components of SQL Server Database?
 
 - SQL Broker
 
-This kind of services aren't yet available in a cloud envirorment. 
+This kind of services aren't yet available in a cloud environment. 
 
 
 ###Do you access the file system from SQL?
@@ -31,10 +31,10 @@ This kind of services aren't yet available in a cloud envirorment.
 - xp_cmdshell  
 - FileSystemObject and all similar methods 
 
-This kind of access to file system is not allowed in a cloud envirorment. 
+This kind of access to file system is not allowed in a cloud environment. 
 
 ###Do you use Global Temporary Tables (the one with ##)?
-- In a shared envirorment this is not allowed you can use only session temp table. This global tmp table are often used to import data from different source. If you can afford you can consider to change this mecanism using Azure Storage as a place to park data while importing.
+- In a shared environment this is not allowed you can use only session temp table. This global temp table are often used to import data from different source. If you can afford you can consider to change this mechanism using Azure Storage as a place to park data while importing.
 
 
 
@@ -67,9 +67,9 @@ Let's first run [SQL Azure Migration Wizard](http://sqlazuremw.codeplex.com/) on
 
 For the advanced migration we will use SQL Azure Migration Wizard. Now the first step is to select the right version based on the SQL Server version you are using.
 
-	- SQLAzureMW v3x and tools requires .NET Framework 3.5 and SQL Server 2008 R2 SP1 bits to run.
-	- SQLAzureMW v4x and tools requires .NET Framework 4.5 and SQL Server 2012 bits to run.
-	- SQLAzureMW v5x and tools requires .NET Framework 4.5 and SQL Server 2014 bits to run.
+    - SQLAzureMW v3x and tools requires .NET Framework 3.5 and SQL Server 2008 R2 SP1 bits to run.
+    - SQLAzureMW v4x and tools requires .NET Framework 4.5 and SQL Server 2012 bits to run.
+    - SQLAzureMW v5x and tools requires .NET Framework 4.5 and SQL Server 2014 bits to run.
 
 #####Analyze the schema of the Database
 Run SQLAzureMW.exe to check the schema and have an overview of the changes that we need to consider.
@@ -82,7 +82,7 @@ Fix all the issues that it raise on the source database.
 > 
 > **modify** <appSettings\> SQLAzureMWBatchBackup.exe.config 
   
-				
+                
 #####Upload data on SQL Database
 
 > SQLAzureMWBatchUpload 
