@@ -35,15 +35,15 @@ If you don't have found blocking issues on the first part of the document, let's
 
 *Right click on the project*
 
-![](/migrationguide/WebSites-publish.png)
+![](/images/WebSites-publish.png)
 
 *Give it a name and select a region:*
 
-![](/migrationguide/WebSites-publish1.png)
+![](/images/WebSites-publish1.png)
 
 *Publish*
 
-![](/migrationguide/WebSites-publish2.png)
+![](/images/WebSites-publish2.png)
 
 Now that we have successfully deployed our web app there are few things we can tune.
 
