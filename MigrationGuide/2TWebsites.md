@@ -26,9 +26,9 @@ The Web application need to comunicate on custom TCP/IP Port?
 
 
 ##Prerequisites
-- Visual Studio 2013
-- Latest Azure SDK
-
+- Visual Studio 2013 [Update 4](http://www.microsoft.com/en-us/download/details.aspx?id=44921)
+- [Microsoft Azure SDK - 2.5 for Visual Studio 2013](http://go.microsoft.com/fwlink/p/?linkid=323510&clcid=0x409)
+- [Microsoft Azure PowerShell](http://go.microsoft.com/?linkid=9811175&clcid=0x409)
 
 ##Deploy the solution on Azure WebSites
 If you don't have found blocking issues on the first part of the document, let's try to publish to a WebSite.
