@@ -45,10 +45,20 @@ This kind of access to file system is not allowed in a cloud envirorment.
 
 ##Deploy the solution on SQL Database
 
+Let's first create a SQL Database server on Azure, select New (Lower left corner) "SQL Database".
+Make sure you:
+- Select the right location when you create the server
+- Set the V12 version as Yes (this increase the compatibility with SQL Server)
+- Select the right pricing tier
 
+![](/images/SQL2.png)
 
 ###Simple migration
+
+
 Data and schema migration
+
+![](/images/SQL1.png)
 
 
 ###Advanced migration
@@ -74,3 +84,7 @@ Upload data on SQL Database
 
 		SQLAzureMWBatchUpload Importa I dati del Backup
 				Modificare SQLAzureMWBatchUpload.exe.config nella sezione  <appSettings> 
+
+
+
+##Things to consider to improve the solution

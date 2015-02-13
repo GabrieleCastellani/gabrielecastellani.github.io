@@ -23,8 +23,6 @@ The Web application need to comunicate on custom TCP/IP Port?
 - If you need to comunicate on ports different from 80 and 443 consider [Cloud Services Guide](/migrationguide/cloud-services/)
 
 
-
-
 ##Prerequisites
 - Visual Studio 2013 [Update 4](http://www.microsoft.com/en-us/download/details.aspx?id=44921)
 - [Microsoft Azure SDK - 2.5 for Visual Studio 2013](http://go.microsoft.com/fwlink/p/?linkid=323510&clcid=0x409)
@@ -50,7 +48,7 @@ Now that we have successfully deployed our web app there are few things we can t
 ##Things to check
 - **PDF Generation** Most of PDF libraries works on a _Basic/Standard_ WebSites but some don't. So better to check :-).
 - **Editing files on local filesystem** a better patter to consider to use Azure Storage [How to use Blob Storage from .NET ](http://azure.microsoft.com/en-us/documentation/articles/storage-dotnet-how-to-use-blobs/)
-- **ASP.Net Session** Azure Websites utilize a cookie based session affinity. It handle session on multple istance pointing the same user to the same server. The name of the cookie is *ARRAffinity*. If you need to disable session affinity check [Disabling ARR’s Instance Affinity](http://azure.microsoft.com/blog/2013/11/18/disabling-arrs-instance-affinity-in-windows-azure-web-sites/)
+- **ASP.Net Session** Azure Websites use a cookie based session affinity. It handle session on multple istance pointing the same user to the same server. The name of the cookie is *ARRAffinity*. If you need to disable session affinity check [Disabling ARR’s Instance Affinity](http://azure.microsoft.com/blog/2013/11/18/disabling-arrs-instance-affinity-in-windows-azure-web-sites/). Another option is to disable session affinity and use [Redis cache ASP.net session provider](http://azure.microsoft.com/it-it/documentation/articles/cache-dotnet-how-to-use-azure-redis-cache/#store-session) 
 - Configure HTTPS
 - Understandig the Web Hosting plan
 - Tune The Application
