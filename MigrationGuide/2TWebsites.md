@@ -53,8 +53,8 @@ Now that we have successfully deployed our web app there are few things we can t
 - Understandig the Web Hosting plan
 - Tune The Application
 
-##Things to consider as an improvement
-- Remove connection strings from code
+##Improvements
+- Remove passwords from code (this is always a good practice :-))
 - SingleSignOn with Office 365
 - [Redis Cache for Asp.Net session](http://azure.microsoft.com/it-it/documentation/articles/cache-dotnet-how-to-use-azure-redis-cache/#store-session)
 - Upload of large files on azure storage. 

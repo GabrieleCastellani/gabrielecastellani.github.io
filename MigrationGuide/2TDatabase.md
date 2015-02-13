@@ -39,8 +39,8 @@ This kind of access to file system is not allowed in a cloud envirorment.
 
 
 ##Prerequisites
-- Visual Studio 2013
-- SQL Server Enterprise Manager 2014
+- Visual Studio 2013 [Update 4](http://www.microsoft.com/en-us/download/details.aspx?id=44921)
+- SQL Server Management Studio 2014 Standard or [Express](https://msdn.microsoft.com/en-us/evalcenter/dn434042.aspx)
 
 
 ##Deploy the solution on SQL Database
@@ -91,4 +91,7 @@ Fix all the issues that it raise on the source database.
  
 
 
-##Things to consider to improve the solution
+##Improvements
+
+
+##Troubleshooting performance
