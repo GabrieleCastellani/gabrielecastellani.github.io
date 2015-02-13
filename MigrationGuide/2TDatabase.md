@@ -28,13 +28,13 @@ This kind of services aren't yet available in a cloud envirorment.
 
 ###Do you access the file system from SQL?
 
-- sp_cmdshell 
-- sp_writefile
+- xp_cmdshell  
+- FileSystemObject and all similar methods 
 
 This kind of access to file system is not allowed in a cloud envirorment. 
 
-###Do you use server tem tables (the one with ##)
-
+###Do you use Global Temporary Tables (the one with ##)?
+- In a shared envirorment this is not allowed you can use only session temp table. This global tmp table are often used to import data from different source. If you can afford you can consider to change this mecanism using Azure Storage as a place to park data while importing.
 
 
 
@@ -71,20 +71,24 @@ For the advanced migration we will use SQL Azure Migration Wizard. Now the first
 	- SQLAzureMW v4x and tools requires .NET Framework 4.5 and SQL Server 2012 bits to run.
 	- SQLAzureMW v5x and tools requires .NET Framework 4.5 and SQL Server 2014 bits to run.
 
-Let's run SQLAzureMW to migrate the schema and have an overview of the changes that we need to consider.
+#####Analyze the schema of the Database
+Run SQLAzureMW.exe to check the schema and have an overview of the changes that we need to consider.
 
 Fix all the issues that it raise on the source database.
 
-Export data from the source database
+#####Export data from the source Database
 
-		SQLAzureMWBatchBackup  Esporta in dat per uploader
-				Modificare SQLAzureMWBatchBackup.exe.config nella sezione  <appSettings> 
+> **SQLAzureMWBatchBackup**  
+> 
+> **modify** <appSettings\> SQLAzureMWBatchBackup.exe.config 
+  
 				
-Upload data on SQL Database
+#####Upload data on SQL Database
 
-		SQLAzureMWBatchUpload Importa I dati del Backup
-				Modificare SQLAzureMWBatchUpload.exe.config nella sezione  <appSettings> 
-
+> SQLAzureMWBatchUpload 
+> 
+> **modify** <appSettings\> in SQLAzureMWBatchUpload.exe.config   
+ 
 
 
 ##Things to consider to improve the solution
