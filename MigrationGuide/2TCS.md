@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /migrationguide/Websites/
+permalink: /migrationguide/cloud-services/
 ---
 
 #Migrating Front-end using Azure Cloud Services
