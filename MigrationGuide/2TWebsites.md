@@ -33,15 +33,15 @@ If you don't have found blocking issues on the first part of the document, let's
 
 *Right click on the project*
 
-![](/images/WebSites-publish.png)
+![](http://www.gabrielecastellani.it/images/WebSites-publish.png)
 
 *Give it a name and select a region:*
 
-![](/images/WebSites-publish1.png)
+![](http://www.gabrielecastellani.it/images/WebSites-publish1.png)
 
 *Publish*
 
-![](/images/WebSites-publish2.png)
+![](http://www.gabrielecastellani.it/images/WebSites-publish2.png)
 
 Now that we have successfully deployed our web app there are few things we can tune.
 
@@ -60,3 +60,5 @@ Now that we have successfully deployed our web app there are few things we can t
 - Upload of large files on azure storage. 
 - [Multiple Virtual directories](http://blogs.msdn.com/b/tomholl/archive/2014/09/22/deploying-multiple-virtual-directories-to-a-single-azure-website.aspx)
 - [Change WebHosting plan with PowerShell](http://stackoverflow.com/questions/24892220/change-azure-website-web-hosting-plan-mode-using-powershell)
+-  Automating development tasks. Manual processes are slow and error-prone; automating as many of them as possible helps set up a fast, reliable, and agile workflow [Automate Everything](http://www.asp.net/aspnet/overview/developing-apps-with-windows-azure/building-real-world-cloud-apps-with-windows-azure/automate-everything)
+

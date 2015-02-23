@@ -51,14 +51,14 @@ Make sure you:
 - Set the V12 version as Yes (this increase the compatibility with SQL Server)
 - Select the right pricing tier
 
-![](/images/SQL2.png)
+![](http://www.gabrielecastellani.it/images/SQL2.png)
 
 ###Simple migration
 
 
 Data and schema migration
 
-![](/images/SQL1.png)
+![](http://www.gabrielecastellani.it/images/SQL1.png)
 
 
 ###Advanced migration
@@ -92,6 +92,6 @@ Fix all the issues that it raise on the source database.
 
 
 ##Improvements
-
+- Implement a [Retry Pattern](https://msdn.microsoft.com/en-us/library/dn589788.aspx) in your application
 
 ##Troubleshooting performance
