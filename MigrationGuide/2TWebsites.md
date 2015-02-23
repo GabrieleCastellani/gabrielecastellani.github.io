@@ -16,7 +16,7 @@ The Web application need setup of components?
 
 - Crystal reports is a typical example, if you need it you have to consider [Cloud Services Guide](/migrationguide/cloud-services/)
 - Do you need a setup of custom Fonts? If you are using in .Net you can loading at runtime otherwise consider [Cloud Services Guide](/migrationguide/cloud-services/)
-- Do you need the setup of a custom windows service? If you have the source code of this service we will cover it later in a doc. 
+- Do you need the setup of a custom windows service? If you have the source code of this service we will cover it later in the flow. 
 
 The Web application need to communicate on custom TCP/IP Port?
 
