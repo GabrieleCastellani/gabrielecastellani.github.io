@@ -51,7 +51,7 @@ Now that we have successfully deployed our web app there are few things we can t
 - **Editing files on local filesystem** a better patter to consider to use Azure Storage [How to use Blob Storage from .NET ](http://azure.microsoft.com/en-us/documentation/articles/storage-dotnet-how-to-use-blobs/)
 - **ASP.Net Session** Azure Websites use a cookie based session affinity. It handle session on multiple instance pointing the same user to the same server. The name of the cookie is *ARRAffinity*. If you need to disable session affinity check [Disabling ARR’s Instance Affinity](http://azure.microsoft.com/blog/2013/11/18/disabling-arrs-instance-affinity-in-windows-azure-web-sites/). Another option is to disable session affinity and use [Redis cache ASP.net session provider](http://azure.microsoft.com/it-it/documentation/articles/cache-dotnet-how-to-use-azure-redis-cache/#store-session) 
 - Configure HTTPS: every website has a valid SSL certificates on the domain *.azurewebsites.net if you want you can use your [Custom SSL Certificates](http://azure.microsoft.com/en-gb/documentation/articles/web-sites-configure-ssl-certificate/)
-- Understanding the Web Hosting plan
+- [Azure Websites Web Hosting Plans In-Depth Overview](http://azure.microsoft.com/en-us/documentation/articles/azure-web-sites-web-hosting-plans-in-depth-overview/)
 - Tune The Application
 
 ##Improvements

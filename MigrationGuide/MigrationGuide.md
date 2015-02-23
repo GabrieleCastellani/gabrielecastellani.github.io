@@ -27,7 +27,7 @@ If you are searching an Azure architectural guide I suggest you this link [Micro
 ##Guide
 ###Front-End
 Azure WebSites have some cool features that will simplify your develpment, your administration and your deployment activities. 
-If WebSites doesn't fit into your solution during this document you'll be redirected to Cloud Services.
+If WebSites doesn't fit into your solution during this document you'll be redirected to Cloud Services. One of the biggest advantage of WebSites is that multiple WebSites can share the same Virtual Machine underneath using the same *Web hosting plan*. [Azure Websites Web Hosting Plans In-Depth Overview](http://azure.microsoft.com/en-us/documentation/articles/azure-web-sites-web-hosting-plans-in-depth-overview/)
 I always start looking if Azure WebSites are a good fit.
 
 - [Migrating the Front-end using Azure WebSites](/migrationguide/Websites/)
