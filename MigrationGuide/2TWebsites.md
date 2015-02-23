@@ -22,6 +22,7 @@ The Web application need to communicate on custom TCP/IP Port?
 
 - If you need to communicate on ports different from 80 and 443 consider [Cloud Services Guide](/migrationguide/cloud-services/)
 
+The IP Address used for calling an external service is not reserved even if you have a reserver IP. Here you can find a way to see your pool: [Outgoing IP address of your Azure Web Site](http://blogs.msdn.com/b/waws/archive/2014/07/01/get-the-outgoing-ip-address-of-your-azure-web-site.aspx)
 
 ##Prerequisites
 - Visual Studio 2013 [Update 4](http://www.microsoft.com/en-us/download/details.aspx?id=44921)
@@ -55,12 +56,13 @@ Now that we have successfully deployed our web app there are few things we can t
 
 ##Improvements
 - Remove passwords from code (this is always a good practice :-))
-- [Reserved IP Addresses](https://msdn.microsoft.com/en-us/library/azure/dn690120.aspx) and [pricing model](http://azure.microsoft.com/en-us/pricing/details/ip-addresses/)
+- [Reserved IP Addresses](http://blogs.msdn.com/b/benjaminperkins/archive/2014/05/05/how-to-get-a-static-ip-address-for-your-microsoft-azure-web-site.aspx) and [pricing model](http://azure.microsoft.com/en-us/pricing/details/ip-addresses/)
 - [Using Azure AD and SingleSignOn with Office 365]()
 - [Redis Cache for Asp.Net session](http://azure.microsoft.com/it-it/documentation/articles/cache-dotnet-how-to-use-azure-redis-cache/#store-session)
 - [Multiple Virtual directories](http://blogs.msdn.com/b/tomholl/archive/2014/09/22/deploying-multiple-virtual-directories-to-a-single-azure-website.aspx)
 - [Change WebHosting plan with PowerShell](http://stackoverflow.com/questions/24892220/change-azure-website-web-hosting-plan-mode-using-powershell)
 -  Automating development tasks. Manual processes are slow and error-prone; automating as many of them as possible helps set up a fast, reliable, and agile workflow [Automate Everything](http://www.asp.net/aspnet/overview/developing-apps-with-windows-azure/building-real-world-cloud-apps-with-windows-azure/automate-everything)
+
 
 ##Make better use of the cloud:
 

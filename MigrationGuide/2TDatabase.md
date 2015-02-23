@@ -34,14 +34,15 @@ This kind of access to file system is not allowed in a cloud environment.
 
 
 ##Prerequisites
-- Visual Studio 2013 [Update 4](http://www.microsoft.com/en-us/download/details.aspx?id=44921)
-- SQL Server Management Studio 2014 Standard or [Express](https://msdn.microsoft.com/en-us/evalcenter/dn434042.aspx)
+- SQL Server Management Studio 2014  [Express](https://msdn.microsoft.com/en-us/evalcenter/dn434042.aspx) and [Cumulative Update 5](http://support2.microsoft.com/kb/3011055)
+- [SQL Server Database Tooling Preview for the latest Azure SQL Database Update V12](http://azure.microsoft.com/blog/2015/01/26/migration-cookbook-now-available-for-the-latest-azure-sql-database-update-v12/)
 
 
 ##Deploy the solution on SQL Database
 
 Let's first create a SQL Database server on Azure, select New (Lower left corner) "SQL Database".
 Make sure you:
+
 - Select the right location when you create the server
 - Set the V12 version as Yes (this increase the compatibility with SQL Server)
 - Select the right pricing tier
@@ -57,6 +58,7 @@ Data and schema migration
 
 
 ###Advanced migration
+For a complete guide you can follow [Migration cookbook](http://azure.microsoft.com/blog/2015/01/26/migration-cookbook-now-available-for-the-latest-azure-sql-database-update-v12/)
 
 Let's first run [SQL Azure Migration Wizard](http://sqlazuremw.codeplex.com/) on your existing database.
 
@@ -77,16 +79,23 @@ Fix all the issues that it raise on the source database.
 > 
 > **modify** <appSettings\> SQLAzureMWBatchBackup.exe.config 
   
-                
+
+
+
+               
 #####Upload data on SQL Database
 
 > SQLAzureMWBatchUpload 
 > 
 > **modify** <appSettings\> in SQLAzureMWBatchUpload.exe.config   
- 
+
+
+##Things to check
+- [Azure SQL Database Business Continuity](https://msdn.microsoft.com/en-us/library/hh852669.aspx)
 
 
 ##Improvements
 - Implement a [Retry Pattern](https://msdn.microsoft.com/en-us/library/dn589788.aspx) in your application
 
 ##Troubleshooting performance
+- [Monitoring Azure SQL Database Using Dynamic Management Views](https://msdn.microsoft.com/en-us/library/ff394114.aspx)

@@ -17,15 +17,16 @@ If you are searching an Azure architectural guide I suggest you this link [Micro
 
 
 
-- Front-End: Web Application (Asp.Net)
-- Database: Sql Server (Local or Remote)
-- Services: A Custom C# Windows Services
+- **Front-End**: Web Application (Asp.Net)
+- **Database**: Sql Server (Local or Remote)
+- **Services**: A Custom C# Windows Services
 
 
 
 
-###Guide
-Azure WebSites have some cool features that will simplify your develpment and your administration. 
+##Guide
+###Front-End
+Azure WebSites have some cool features that will simplify your develpment, your administration and your deployment activities. 
 If WebSites doesn't fit into your solution during this document you'll be redirected to Cloud Services.
 I always start looking if Azure WebSites are a good fit.
 
@@ -33,20 +34,21 @@ I always start looking if Azure WebSites are a good fit.
 
 If you want to use Azure Cloud Services you can jump here [Migrating the Front-end using Azure Cloud Services](/migrationguide/cloud-services/)
  
-
+###Database
 Now we have to migrate the database, Azure SQL Database is generally a good option so let's see if it can be used. Otherwise we should use a Virtual machine with SQL Server installed.
 
 - [Migration of the Database](/migrationguide/SQL-database/)
 
+###Services
 The last part of a typical application are periodic task and log running task. In a traditional architecture this is generally achieved by implementing a Custom Windows Service and a Queue System but in the cloud there are many smarter things we can do.
 
-- [Migration of App Services](/migrationguide/services/) *Coming soon*
+- [Migration of App Services](/migrationguide/services/) *Not ready ... Coming soon*
 
 
 
 
 
-#Index of pages
+##Index of pages
 
 - [Migrating the Front-end using Azure WebSites](/migrationguide/Websites/)
 - [Migrating the Front-end using Azure Cloud Services](/migrationguide/cloud-services/)
