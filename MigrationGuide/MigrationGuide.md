@@ -13,11 +13,11 @@ permalink: /migrationguide/
 
 
 ###Guide
-Let's start to see if we can Use Azure WebSites. WebSites have some neat features that will simplify your develpment and your administration. If WebSites doesn't fit into your solution during this document you'll be redirected to Cloud Srvices and than to plain Virtual Machines.
+Let's start to see if we can Use Azure WebSites. WebSites have some neat features that will simplify your develpment and your administration. If WebSites doesn't fit into your solution during this document you'll be redirected to Cloud Services and than to plain Virtual Machines.
 
 - [Migration of the Front-End](/migrationguide/Websites/)
 
-Now we have to migrate the database. Let's start to see if we can you Azure SQL Database.
+Now we have to migrate the database. Let's start to see if we can use Azure SQL Database.
 
 - [Migration of the database](/migrationguide/SQL-database/)
 
