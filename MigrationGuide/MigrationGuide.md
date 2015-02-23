@@ -42,3 +42,15 @@ The last part of a typical application are periodic task and log running task. I
 
 - [Migration of App Services](/migrationguide/services/) *Coming soon*
 
+
+
+
+
+#Index of pages
+
+- [Migrating the Front-end using Azure WebSites](/migrationguide/Websites/)
+- [Migrating the Front-end using Azure Cloud Services](/migrationguide/cloud-services/)
+- [Migration of the Database](/migrationguide/SQL-database/)
+- [Migration of App Services](/migrationguide/services/)
+- [Improvements using Azure Active directory](/migrationguide/Azure-Ad/)
+- [Improvements using Azure Storage](/migrationguide/Azure-Storage/)

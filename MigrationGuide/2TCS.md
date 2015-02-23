@@ -31,3 +31,10 @@ http://www.developerfusion.com/article/119960/upgrade-your-aspnet-site-to-the-cl
 
 - [Azure Service Definition Schema](http://msdn.microsoft.com/library/azure/ee758711.aspx)
 
+
+
+##make better use of the cloud:
+
+- [Improvements using Azure Active directory](/migrationguide/Azure-Ad/)
+- [Improvements using Azure Storage](/migrationguide/Azure-Storage/)
+

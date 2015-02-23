@@ -15,8 +15,8 @@ Let's first analyze some typical application patterns to see at high level if we
 The Web application need setup of components?
 
 - Crystal reports is a typical example, if you need it you have to consider [Cloud Services Guide](/migrationguide/cloud-services/)
-- Do you need a setup of custom Fonts? If you are using in .Net you can loading at runtime otherwise consider [Cloud Services Guide](/migrationguide/cloud-services/)
-- Do you need the setup of a custom windows service? If you have the source code of this service we will cover it later in the flow. 
+- Do you need a setup of custom Fonts? If you are using in .Net you can load them at runtime otherwise consider [Cloud Services Guide](/migrationguide/cloud-services/)
+- Do you need the setup of a custom windows service? If you have the source code of this service we will cover it later in the flow. Basically we can use WebJobs or a WorkerRole.
 
 The Web application need to communicate on custom TCP/IP Port?
 
@@ -56,19 +56,14 @@ Now that we have successfully deployed our web app there are few things we can t
 ##Improvements
 - Remove passwords from code (this is always a good practice :-))
 - [Reserved IP Addresses](https://msdn.microsoft.com/en-us/library/azure/dn690120.aspx) and [pricing model](http://azure.microsoft.com/en-us/pricing/details/ip-addresses/)
-- SingleSignOn with Office 365
+- [Using Azure AD and SingleSignOn with Office 365]()
 - [Redis Cache for Asp.Net session](http://azure.microsoft.com/it-it/documentation/articles/cache-dotnet-how-to-use-azure-redis-cache/#store-session)
 - [Multiple Virtual directories](http://blogs.msdn.com/b/tomholl/archive/2014/09/22/deploying-multiple-virtual-directories-to-a-single-azure-website.aspx)
 - [Change WebHosting plan with PowerShell](http://stackoverflow.com/questions/24892220/change-azure-website-web-hosting-plan-mode-using-powershell)
 -  Automating development tasks. Manual processes are slow and error-prone; automating as many of them as possible helps set up a fast, reliable, and agile workflow [Automate Everything](http://www.asp.net/aspnet/overview/developing-apps-with-windows-azure/building-real-world-cloud-apps-with-windows-azure/automate-everything)
 
+##Make better use of the cloud:
 
+- [Improvements using Azure Active directory](/migrationguide/Azure-Ad/)
+- [Improvements using Azure Storage](/migrationguide/Azure-Storage/)
 
-##Improvements using Windows Azure Storage
-
-- [How to use Blob Storage from .NET](http://azure.microsoft.com/en-us/documentation/articles/storage-dotnet-how-to-use-blobs/)
-- Upload of large files on azure storage.[Javascript Upload](http://blogs.msdn.com/b/windowsazurestorage/archive/2014/02/03/windows-azure-storage-introducing-cors.aspx) or [Uploading Large Files in Windows Azure Blob Storage Using Shared Access Signature, HTML, and JavaScript ](http://gauravmantri.com/2013/02/16/uploading-large-files-in-windows-azure-blob-storage-using-shared-access-signature-html-and-javascript/ ) or [Reliable Large Uploads to Blob Storage via an HTML5 Control](https://msdn.microsoft.com/en-us/library/azure/hh824678.aspx)
-- Uploading large files with command prompt [AzCopy](http://blogs.msdn.com/b/windowsazurestorage/archive/2014/10/29/azcopy-announcing-general-availability-of-azcopy-3-0-plus-preview-release-of-azcopy-4-0-with-table-and-file-support.aspx)
-- Granting access to files using Shared Access Signature: [Part1](http://azure.microsoft.com/en-gb/documentation/articles/storage-dotnet-shared-access-signature-part-1/), [Part2](http://azure.microsoft.com/en-gb/documentation/articles/storage-dotnet-shared-access-signature-part-2/)
-- [Azure Queues and Service Bus Queues - Compared and Contrasted](http://msdn.microsoft.com/en-us/library/hh767287\(VS.103\).aspx)
-- [Azure Queues Tutorial](http://azure.microsoft.com/en-us/documentation/articles/storage-dotnet-how-to-use-queues/)
