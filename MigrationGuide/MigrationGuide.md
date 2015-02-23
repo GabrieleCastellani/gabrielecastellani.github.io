@@ -7,9 +7,9 @@ permalink: /migrationguide/
 ## Architecture ##
     
 - Front-End: Web Application (Asp.Net)
-- Database: Local Sql Server
-- Services: A local Windows Services
-
+- Database: Sql Server (Local or Remote)
+- Services: A Custom C# Windows Services
+![](/images/Arch1.png)
 
 
 ###Guide
