@@ -3,7 +3,7 @@ layout: page
 permalink: /migrationguide/cloud-services/
 ---
 
-#Migrating Front-end using Azure Cloud Services
+#Migrating the using Azure Cloud Services
 
 ##Quick Questions
 

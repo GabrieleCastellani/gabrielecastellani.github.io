@@ -4,7 +4,7 @@ permalink: /migrationguide/Websites/
 ---
 
 
-#Migrating Front-end using Azure WebSites
+#Migrating the Front-end using Azure WebSites
 
 
 Let's first analyze some typical application patterns to see at high level if we can use Azure WebSites.
