@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /migrationguide/migrationguide/Azure-Storage/
+permalink: /migrationguide/Azure-Storage/
 ---
 
 
