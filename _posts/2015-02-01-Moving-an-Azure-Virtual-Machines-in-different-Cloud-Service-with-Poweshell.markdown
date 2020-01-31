@@ -11,4 +11,3 @@ tags: Azure Virtual-Machines
   You can do this with the portal but if your machine have a lot of disks it can take a while.
   Following the commands below you can make it in few minutes.
 
-{% gist a1dc25e9419ea8cea989 Move-AzureVMInNewCS.ps1%}   
