@@ -1,5 +1,5 @@
 import React from "react"
-import { Link, StaticQuery } from "gatsby"
+import { Link, useStaticQuery } from "gatsby"
 import ProfilePageHeader from "./ProfilePageHeader"
 import IndexNavbar from "./IndexNavbar"
 var slugify = require("slugify")
@@ -7,7 +7,16 @@ var slugify = require("slugify")
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
-
+  const data = useStaticQuery(graphql`
+    query Tags {
+      allMarkdownRemark(limit: 2000) {
+        group(field: frontmatter___tags) {
+          fieldValue
+          totalCount
+        }
+      }
+    }
+  `)
   return (
     <div id="root">
       <IndexNavbar />
@@ -26,32 +35,17 @@ const Layout = ({ location, title, children }) => {
               </Link>
               <br />
               <br />
-              <StaticQuery
-                query={graphql`
-                  query Tags {
-                    allMarkdownRemark(limit: 2000) {
-                      group(field: frontmatter___tags) {
-                        fieldValue
-                        totalCount
-                      }
-                    }
-                  }
-                `}
-                render={data => (
-                  <>
-                    {data.allMarkdownRemark.group.map(tag => (
-                      <li key={tag.fieldValue}>
-                        <Link
-                          className="text-info"
-                          to={`/tags/${slugify(tag.fieldValue)}/`}
-                        >
-                          {tag.fieldValue} ({tag.totalCount})
-                        </Link>
-                      </li>
-                    ))}
-                  </>
-                )}
-              />
+
+              {data.allMarkdownRemark.group.map(tag => (
+                <li key={tag.fieldValue}>
+                  <Link
+                    className="text-info"
+                    to={`/tags/${slugify(tag.fieldValue)}/`}
+                  >
+                    {tag.fieldValue} ({tag.totalCount})
+                  </Link>
+                </li>
+              ))}
             </div>
           </div>
         </div>
