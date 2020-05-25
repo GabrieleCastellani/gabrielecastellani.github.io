@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Il nome di WPF/E è..."
+date: 2007-04-16 14:04:00 +0200
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2007/04/16/75605.aspx"]
+---
+
+<!-- more -->
+
+<P></P>
+<P></P>
+<DIV class=wlWriterSmartContent id=605EEA63-B54B-4e6d-A290-F5E9E8229FC1:e5afc7da-eae6-454b-8883-6f4cb923e9a1 contentEditable=false style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px"></DIV><A href="http://www.microsoft.com/silverlight/" atomicselection="true"><IMG src="http://www.microsoft.com/silverlight/images/logo_main_sl.gif"></A> 
+<P></P>
+<P>&nbsp;</P>
+<P>Come molti di voi avranno notato il nome definitivo di WPF/e &#232; <A href="http://www.microsoft.com/silverlight"><B>Microsoft Silverlight</B></A>. </P>
+<P>&nbsp;</P>
+<P>Modifica .....&nbsp;&nbsp;devo dire che il filmato in Home Page &#232; veramente carino</P>

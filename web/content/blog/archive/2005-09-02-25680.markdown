@@ -1,0 +1,17 @@
+---
+layout: post
+title: "30 Nuovi templates per Windows Sharepoint Services (WSS)"
+date: 2005-09-02 09:46:00 +0200
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2005/09/02/25680.aspx"]
+---
+
+<!-- more -->
+
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=EN-US style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Al ritorno dalla mia vacanza ho trovato questa mail nella mia mailbox.</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=EN-US style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Sembrano templates interessanti appena avr&#242; il tempo li prover&#242;.</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=EN-US style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Today we released 30 new applications for Windows SharePoint Services (attached are the PR related materials).&nbsp; These applications consist of 100% out-of-box WSS functionality and have been tailored to meet the needs of specific tasks or business processes.&nbsp; The applications are available as a free download and will support a diverse range of both horizontal and vertical scenarios.&nbsp; The external link and further details are below. <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=EN-US style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><o:p>&nbsp;<SPAN lang=EN-US style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><A title=http://www.microsoft.com/technet/prodtechnol/sppt/wssapps/default.mspx href="http://www.microsoft.com/technet/prodtechnol/sppt/wssapps/default.mspx"><FONT title=http://www.microsoft.com/technet/prodtechnol/sppt/wssapps/default.mspx color=black><SPAN title=http://www.microsoft.com/technet/prodtechnol/sppt/wssapps/default.mspx style="COLOR: windowtext">http://www.microsoft.com/technet/prodtechnol/sppt/wssapps/default.mspx</SPAN></FONT></A></SPAN></o:p></SPAN></FONT></P>

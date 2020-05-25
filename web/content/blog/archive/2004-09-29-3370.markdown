@@ -1,0 +1,15 @@
+---
+layout: post
+title: "18 Novembre segna questa data in agenda"
+date: 2004-09-29 09:01:00 +0200
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2004/09/29/3370.aspx"]
+---
+
+<!-- more -->
+
+<div xmlns="http://www.w3.org/1999/xhtml">Bill Gates al Forum di Assago</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><a href="http://www.microsoft.com/italy/technicalconference/default.mspx">http://www.microsoft.com/italy/technicalconference/default.mspx</a></div>

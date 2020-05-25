@@ -1,0 +1,14 @@
+---
+layout: post
+title: ".NET 3.0 RC1"
+date: 2006-09-08 09:02:00 +0200
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2006/09/08/47555.aspx"]
+---
+
+<!-- more -->
+
+<p>&nbsp;</p> <p>Da oggi sono disponibili per il download le estensioni per .Net RC1</p> <p><a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=935AABF9-D1D0-4FC9-B443-877D8EA6EAB8&amp;displaylang=en">Microsoft Visual Studio Code Name “Orcas” Community Technology Preview – Development Tools for .NET Framework 3.0</a></p> <p>&nbsp;</p> <p>In più sono state anche anche rilasciate le CTP allineate&nbsp;dei prodotti Expression.</p> <p><a href="http://www.microsoft.com/products/expression/en/default.mspx">Sito Expression</a></p>

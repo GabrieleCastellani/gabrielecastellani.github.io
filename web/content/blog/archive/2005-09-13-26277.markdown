@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Visual Studio 2005 Release Candidate (RC) on MSDN"
+date: 2005-09-13 07:20:00 +0200
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2005/09/13/26277.aspx"]
+---
+
+<!-- more -->
+
+<FONT face=Verdana size=2>
+<P><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">The 
+Visual Studio 2005 Release Candidate (RC) (yes, no numbers) is live on <A title=http://msdn.microsoft.com/subscriptions href="http://msdn.microsoft.com/subscriptions">MSDN</A> 
+today! 
+</SPAN></P>
+<P><FONT face=Verdana size=2><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">     
+              
+           The RC bits (RTM.50727.26) 
+are compatible with the SQL Server 2005 September CTP, also going live on MSDN 
+simultaneously. SQL Server Express (SSE) September CTP bits (9.0.1314.06) are 
+already integrated into the RC build.&nbsp; </SPAN></FONT></P>
+<P><FONT face=Verdana size=2><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana">As we are really close to RTM, 
+there are no more planned public releases at this time. So, next stop – 
+RTM!!!</SPAN></FONT><o:p></o:p></P>
+<P class=MsoNormal><B><FONT face=Verdana size=2><SPAN style="FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Verdana"></SPAN></FONT></B><o:p></o:p></P>
+</FONT>
+<FONT face=Verdana size=2><P>GAB</P></FONT><!-- Powered by IMHO Instant Blogger Copyright (c) 2004 A.Boschin - http://www.elite.boschin.it -->

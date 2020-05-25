@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Save the date for MIX08!"
+date: 2007-06-04 12:09:00 +0200
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2007/06/04/80248.aspx"]
+---
+
+<!-- more -->
+
+<p>We are pleased to announce that MIX will be returning to the Venetian Resort Hotel Casino in Las Vegas on March 5-7, 2008. Stay tuned for announcements related to registration at <a href="http://www.visitmix.com/">MIX</a> and don’t forget to register early and sign up for those poker lessons you’ve been meaning to take.</p>

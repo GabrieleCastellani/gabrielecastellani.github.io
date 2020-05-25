@@ -1,0 +1,14 @@
+---
+layout: post
+title: "E Vista sia!!!"
+date: 2006-09-05 10:11:00 +0200
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2006/09/05/47344.aspx"]
+---
+
+<!-- more -->
+
+<p>Già dall'uscita della di Windows Vista Beta 2 mi ero deciso ad utilizzare il nuovo&nbsp;sistema operativo&nbsp;più che potevo.</p> <p>Sfortunatamente&nbsp;a&nbsp;causa della mancanza di dirver e di alcuni problemini con le virtual machines&nbsp;in realtà non ho utilizzato la Beta 2 come avrei voluto.</p> <p>Con l'uscita della July CTP la situazione dei driver è migliorata e devo dire che a Luglio/Agosto ho utilizzato Vista come S.O. principale. Sulla scia di questo entusiasmo ieri ho formattato i miei due PC ho completamente cancellato le partizioni XP ed ho installato da zero Vista RC1... in poche parole ho superato il punto di non ritorno.</p> <p>Le prime impressioni sono molto positive: il sistema è veloce e responsive come con XP, i driver che mi interessavano sono riuscito a configurarli tutti.</p> <p>Adesso sono alle prese con i problemi tipici dei primi giorni:<br><strong>Sperimentare tutte le features possibili ed immaginabili </strong></p> <p>Sono consapevole del fatto che questo approccio mi porterà rapidamente ad incasinare tutto ... ma non posso resistere :-)</p> <p>Sto cercando anche&nbsp;di capire tra tutti i software che utilizzo quali sono compatibili quali no e che versioni cercare... francamente qui ho ancora da lavorare un po'</p> <p>Vi tengo aggiornati ... </p>

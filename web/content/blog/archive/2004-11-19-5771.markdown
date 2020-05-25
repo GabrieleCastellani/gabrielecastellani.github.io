@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Announcing the availability of the Mixed Workload Consolidation Guide "
+date: 2004-11-19 09:24:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2004/11/19/5771.aspx"]
+---
+
+<!-- more -->
+
+<div style="PADDING-RIGHT: 0in; MARGIN-TOP: 0in; PADDING-LEFT: 0in; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt" xmlns="http://www.w3.org/1999/xhtml"><strong><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt"><em>Complete Guidance to Access, Test, Plan and Design</em></span></font></strong></div>
+<div style="PADDING-RIGHT: 4.3pt; PADDING-LEFT: 0in; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt">This Mixed Workload Consolidation Guide provides detailed information you can use to assess and test application compatibility, and to plan and design consolidated mixed workload solutions. </span></font></div>
+<div style="PADDING-RIGHT: 4.3pt; PADDING-LEFT: 0in; FONT-SIZE: 12pt; MARGIN-BOTTOM: 12pt" xmlns="http://www.w3.org/1999/xhtml"><font face="Verdana" size="2"><span style="FONT-SIZE: 10pt"></span></font> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" style="PADDING-RIGHT: 0in; MARGIN-TOP: 0in; PADDING-LEFT: 0in; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt"><font face="Verdana" size="3"><span style="FONT-SIZE: 12pt">Server Consolidation site: <a title="http://www.microsoft.com/serverconsolidation" href="http://www.microsoft.com/serverconsolidation">Http://www.microsoft.com/serverconsolidation</a> </span></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml" style="PADDING-RIGHT: 0in; MARGIN-TOP: 0in; PADDING-LEFT: 0in; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt"><font face="Verdana" size="3"><span style="FONT-SIZE: 12pt">TechNet download site: <a title="http://www.microsoft.com/downloads/details.aspx?FamilyId=0F70695E-5D0B-4781-8966-84BE43216F9E&amp;displaylang=en" href="http://www.microsoft.com/downloads/details.aspx?FamilyId=0F70695E-5D0B-4781-8966-84BE43216F9E&amp;displaylang=en">http://www.microsoft.com/downloads/details.aspx?FamilyId=0F70695E-5D0B-4781-8966-84BE43216F9E&amp;displaylang=en</a>.</span></font></div>
+<div xmlns="http://www.w3.org/1999/xhtml" style="PADDING-RIGHT: 0in; MARGIN-TOP: 0in; PADDING-LEFT: 0in; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0pt"><font face="Verdana" size="3"><span style="FONT-SIZE: 12pt"></span></font> </div>

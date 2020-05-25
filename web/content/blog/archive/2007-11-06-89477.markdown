@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Live from TechEd Bacellona 2007"
+date: 2007-11-06 17:33:15 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2007/11/06/89477.aspx"]
+---
+
+<!-- more -->
+
+<p>Finalmente riesco a trovare il tempo per scrivere un po'. Attualmente sono a TechEd Developers a Barcellona. Qui le giornate hanno dei ritmi intensissimi.</p>  <p>Tutto è iniziato ieri con una sveglia alle 4.30 ed un volo per Barcellona. Arrivato al convetion center è stato il momento della KeyNote. Ecco come era piena la sala poco prima dell'inizio </p>  <p> </p>  <p></p>  <div class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:6d2f8fba-7886-4c6e-912a-21abc2dcbbc3" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px"><div id="48a600a9-4db1-47eb-972a-50b7b55bf4f7" style="margin: 0px; padding: 0px; display: inline;"><div><a href="http://soapbox.msn.com/video.aspx?vid=dc24175c-d3a5-47cd-9afe-d47be9335c8e&amp;from=writer" target="_new"><img src="http://blogs.ugidotnet.org/images/blogs_ugidotnet_org/gabrielc/WindowsLiveWriter/LivefromTechEdBacellona2007_DA86/video1c79b134d5f0.jpg" galleryimg="no" onload="var downlevelDiv = document.getElementById('48a600a9-4db1-47eb-972a-50b7b55bf4f7'); downlevelDiv.innerHTML = &quot;&lt;div&gt;&lt;embed src=\&quot;http://images.soapbox.msn.com/flash/soapbox1_1.swf\&quot; quality=\&quot;high\&quot; width=\&quot;432\&quot; height=\&quot;364\&quot; wmode=\&quot;transparent\&quot; type=\&quot;application/x-shockwave-flash\&quot; pluginspage=\&quot;http://macromedia.com/go/getflashplayer\&quot; flashvars=\&quot;c=v&amp;v=dc24175c-d3a5-47cd-9afe-d47be9335c8e&amp;from=writer\&quot; &gt;&lt;\/embed&gt;&lt;\/div&gt;&quot;;" alt="" /></a></div></div></div>  <p></p>  <p> </p>  <p>Subito dopo sono iniziate le sessioni tecniche.</p>  <p> </p>  <p>Colgo l'occasione anche per segnalarvi la nascita del nuovo blog del mio team  <a href="http://blogs.msdn.com/italy/default.aspx" target="_blank">MSDN Italy blog</a>.</p>  <p>Questa settimana su questo blog troverete un po' di informazioni relative a TechED abbiamo infatti iniziato con una piccola intervista a Mario e Pietro subito dopo la keynote per proseguire con un'intervista a Luca Bolognese (Lead Program Manager). Luca  lavora a Seattle da molti anni ed è a capo del team di C# e di LINQ, sentite direttamente la sua intervista.</p>  <p> </p>  <p>Seguiteci su <a href="http://blogs.msdn.com/italy/default.aspx" target="_blank">MSDN Italy blog</a> a presto ...</p>

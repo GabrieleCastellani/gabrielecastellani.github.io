@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Altro video di Microsoft surface"
+date: 2007-05-31 18:02:00 +0200
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2007/05/31/79889.aspx"]
+---
+
+<!-- more -->
+
+<p><embed name="flashObj" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" src="http://services.brightcove.com/services/viewer/federated_f8/271552687" width="486" height="412" type="application/x-shockwave-flash" swliveconnect="true" seamlesstabbing="false" base="http://admin.brightcove.com" flashvars="videoId=933742930&amp;playerId=271552687&amp;viewerSecureGatewayURL=https://services.brightcove.com/services/amfgateway&amp;servicesURL=http://services.brightcove.com/services&amp;cdnURL=http://admin.brightcove.com&amp;domain=embed&amp;autoStart=false&amp;" bgcolor="#FFFFFF"></embed></p>

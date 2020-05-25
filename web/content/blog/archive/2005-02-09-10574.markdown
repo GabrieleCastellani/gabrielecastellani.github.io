@@ -1,0 +1,16 @@
+---
+layout: post
+title: "DNN Italia"
+date: 2005-02-09 16:18:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2005/02/09/10574.aspx"]
+---
+
+<!-- more -->
+
+<P>Sono sempre stato appasionato di DotNetNuke. Purtroppo in Italia non ho mai trovato un sito dove poter discutere o trovare informazioni su dnn.</P>
+<P>Dopo vari prove "lite" l'altra sera ho&nbsp;deciso di aprire un portale in italia il sito si chiama <A href="http://www.dnnitalia.com">www.dnnitalia.com</A> &#232; ancora un po' scarno ma nei prossimi giorni ho intanzione di popolarlo con un po' di materiale che ho preparato per i miei webcast.</P>
+<P>Naturalmente se qualcuno&nbsp;di voi&nbsp;&#232; interessato ad aiutarmi faccia un fischio </P>

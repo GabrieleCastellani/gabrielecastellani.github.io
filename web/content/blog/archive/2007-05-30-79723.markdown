@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Omea Pro &amp; Windows Vista"
+date: 2007-05-30 14:40:00 +0200
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2007/05/30/79723.aspx"]
+---
+
+<!-- more -->
+
+<p>Quando è stata rilasciata la Beta 1 di Orcas l'ho chiaramente installata appena ho avuto in mano il DVD stessa cosa per Silverlight stessa cosa Omea Pro (consigliato da un amico.</p> <p>Come sempre succede per complicare le cose a metà del setup di Orcas mi si è sfilata la batteria del portatile quindi è successo un po' un casotto. </p> <p>Da quel momento ho incominciato a ricevere questo errore di iexplore in modo intermittente:</p> <p>Microsoft Visual c++ Error! iexplore.exe</p> <p><a href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/OmeaProWindowsVista_E977/image%7B0%7D_thumb%5B5%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="240" src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/OmeaProWindowsVista_E977/image%7B0%7D_thumb.png" width="436" border="0"></a> </p> <p>&nbsp;</p> <p>Mi sono subito maledetto per le installazioni fatte e stavo pensando di formattare tutto dando la colpa a tutte le beta che ho installato.</p> <p>INVECE NO! mi sbagliavo</p> <p>Alla fine navigando su internet ho scoperto che il problema era derivato da Omea pro.</p> <p>&nbsp;</p> <p>Disabilitando i plugin di Jetbrains in IE tutto funziona</p> <p><a href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/OmeaProWindowsVista_E977/image%7B0%7D_thumb%5B5%5D.png" atomicselection="true"><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="118" src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/OmeaProWindowsVista_E977/image%7B0%7D_thumb%5B5%5D.png" width="482" border="0"></a> </p> <p>Faccio questo post perchè era da un mese che soffrivo con questo problema magari vi risparmio un po' di tempo.</p>

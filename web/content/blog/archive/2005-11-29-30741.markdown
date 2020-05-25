@@ -1,0 +1,16 @@
+---
+layout: post
+title: "How to manually uninstall SQL Express if uninstalling from Add/Remove Programs fails"
+date: 2005-11-29 11:52:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2005/11/29/30741.aspx"]
+---
+
+<!-- more -->
+
+<P><A href="http://blogs.msdn.com/astebner/archive/2005/09/13/465401.aspx">http://blogs.msdn.com/astebner/archive/2005/09/13/465401.aspx</A></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>

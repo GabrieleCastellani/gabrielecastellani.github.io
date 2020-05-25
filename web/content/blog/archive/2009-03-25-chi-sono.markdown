@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Chi Sono"
+date: 2009-03-25 22:47:08 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2009/03/25/chi-sono.aspx"]
+---
+
+<!-- more -->
+
+<p style="FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13px; MARGIN-RIGHT: 20px"><font face="Arial"><img alt="Foto" src="http://blogs.msdn.com/photos/italy/images/5490354/thumb.aspx" /></font></p>
+<p style="FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13px; MARGIN-RIGHT: 20px">Gabriele Castellani lavora in Microsoft dal 2001 ha iniziato nella divisione MSN italia con il ruolo di MSN Italy Technology Officer e successivamente si è spostato nella divisione Developer &amp; Platform Evangelism (DPE) dove ha ricoperto il ruolo di ISV Developer Evangelist e di Web Architect Evangelist. </p>
+<p style="FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13px; MARGIN-RIGHT: 20px">Attualmente nella divisione DPE ha assunto il ruolo di Developer Community and ITPro Evangelism Lead dove si occupa di coordinare le attività rivolte agli sviluppatori e ai professionisti IT. </p>
+<p style="FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13px; MARGIN-RIGHT: 20px">Si occupa della tecnologia .Net da quando è stata rilasciata ed in particolare si occupa di tematiche legate allo sviluppo web. </p>
+<p style="FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13px; MARGIN-RIGHT: 20px"> </p>

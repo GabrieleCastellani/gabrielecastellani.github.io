@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Ducati ha appena rilasciato un Gadget per WINDOWS Vista"
+date: 2007-05-17 15:25:00 +0200
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2007/05/17/78491.aspx"]
+---
+
+<!-- more -->
+
+<h4><a href="http://gallery.live.com/liveItemDetail.aspx?li=dc6fcf83-bde4-4e45-9ae9-f2f74176af49&amp;bt=1&amp;pl=1">http://gallery.live.com/liveItemDetail.aspx?li=dc6fcf83-bde4-4e45-9ae9-f2f74176af49&amp;bt=1&amp;pl=1</a></h4> <p><a href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/DucatihaappenarilasciatounGadgetperWINDO_F435/image03.png"><img height="249" src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/DucatihaappenarilasciatounGadgetperWINDO_F435/image0_thumb1.png" width="673" border="0"></a> <p><a href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/DucatihaappenarilasciatounGadgetperWINDO_F435/image%7B0%7D%5B3%5D.png"><img height="240" src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/DucatihaappenarilasciatounGadgetperWINDO_F435/image%7B0%7D%5B2%5D.png" width="203" border="0"><a href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/DucatihaappenarilasciatounGadgetperWINDO_F435/image%7B0%7D%5B1%5D.png"><img height="219" src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/DucatihaappenarilasciatounGadgetperWINDO_F435/image%7B0%7D.png" width="240" border="0"></a></a></p>

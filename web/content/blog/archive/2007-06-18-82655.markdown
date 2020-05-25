@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Utilizzare WPF per interfacce stile gestionale"
+date: 2007-06-18 16:34:00 +0200
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2007/06/18/82655.aspx"]
+---
+
+<!-- more -->
+
+<p>Lavorando con le software house l'osservazione più comune che mi viene fatta su WPF riguarda proprio la possibilità di realizzare interfacce simili a quelle dei gestionali.  <p>Un mio collega ha rifatto l'interfaccia di outlook con Blend e WPF.  <p>La cosa che mi ha impressionato è che sostiene di averla fatta al 90% utilizzando Blend, per dimostrarlo ha anche allegato un Hands-On-Lab per riprodurlo.  <p>Appena trovo un po' di tempo voglio proprio provare.  <p>&nbsp;  <p><a href="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/UtilizzareWPFperinterfaccestilegestional_104B1/clip_image001.jpg" atomicselection="true"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="137" alt="clip_image001" src="http://blogs.msdn.com/blogfiles/gabrielecastellani/WindowsLiveWriter/UtilizzareWPFperinterfaccestilegestional_104B1/clip_image001.jpg" width="240" border="0"></a>  <p>XBAP demo  <p><a href="http://www.00001001.ch/download/HOL/WPF_XBAP/OutlookWPF/OutlookUI%20Browser.xbap">http://www.00001001.ch/download/HOL/WPF_XBAP/OutlookWPF/OutlookUI%20Browser.xbap</a>  <p>The lab manual can be downloaded from: <a href="http://www.00001001.ch/download/HOL/WPF/Outlook_HOL_WPF.pdf">http://www.00001001.ch/download/HOL/WPF/Outlook_HOL_WPF.pdf</a>  <p>The lab binaries are located here: <a href="http://www.00001001.ch/download/HOL/WPF/Outlook_HOL_WPF_projects.zip">http://www.00001001.ch/download/HOL/WPF/Outlook_HOL_WPF_projects.zip</a></p>

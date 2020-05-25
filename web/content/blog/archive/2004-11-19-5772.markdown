@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Guida alle soluzioni Smart Client"
+date: 2004-11-19 09:56:00 +0100
+comments: true
+published: true
+categories: ["blog", "archives"]
+tags: []
+alias: ["http://blogs.ugidotnet.org/gabrielc/archive/2004/11/19/5772.aspx"]
+---
+
+<!-- more -->
+
+<a xmlns="http://www.w3.org/1999/xhtml" href="http://www.microsoft.com/italy/office/smartclient/default.mspx">http://www.microsoft.com/italy/office/smartclient/default.mspx</a>
