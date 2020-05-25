@@ -16,7 +16,7 @@ const Tags = ({ pageContext, data }) => {
   return (
     <div>
       <Layout title={tagHeader}>
-        <SEO title="All posts" />
+        <SEO title="All tags" />
         <Helmet title={tagHeader} />
         <h4>{tagHeader}</h4>
         <br />
