@@ -29,7 +29,14 @@ export default function HeroPost({
         </div>
         <div>
           <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-          {author ? <Avatar name={author.name} picture={author.picture} /> : ""}
+          {author ? (
+            <Avatar name={author.name} picture={author.picture} />
+          ) : (
+            <Avatar
+              name={"Gabriele Castellani"}
+              picture={"/assets/blog/authors/gab.jpeg"}
+            />
+          )}
         </div>
       </div>
     </section>

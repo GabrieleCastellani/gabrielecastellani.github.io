@@ -10,57 +10,57 @@ import {
 export default function Intro() {
   return (
     <>
-      <nav class="navbar sticky-top  navbar-expand-md navbar-light  bg-light">
-        <div class="navbar-collapse" id="collapsingNavbar">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link" href="/">
+      <nav className="navbar sticky-top  navbar-expand-md navbar-light  bg-light">
+        <div className="navbar-collapse" id="collapsingNavbar">
+          <ul className="navbar-nav">
+            <li className="nav-item">
+              <a className="nav-link" href="/">
                 Home
               </a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/archive">
+            <li className="nav-item">
+              <a className="nav-link" href="/archive">
                 Archive
               </a>
             </li>
 
-            <li class="nav-item">
-              <a class="nav-link" href="#myAlert">
+            <li className="nav-item">
+              <a className="nav-link" href="#myAlert">
                 Links
               </a>
             </li>
           </ul>
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
+          <ul className="navbar-nav ml-auto">
+            <li className="nav-item">
               <a
-                class="nav-link"
+                className="nav-link"
                 target="_blank"
                 href="https://twitter.com/gabrielec?ref=blog"
               >
                 <FaTwitter />
               </a>
             </li>
-            <li class="nav-item">
+            <li className="nav-item">
               <a
-                class="nav-link"
+                className="nav-link"
                 target="_blank"
                 href="https://www.facebook.com/gabriele.castellani"
               >
                 <FaFacebookSquare />
               </a>
             </li>
-            <li class="nav-item">
+            <li className="nav-item">
               <a
-                class="nav-link"
+                className="nav-link"
                 target="_blank"
                 href="https://www.instagram.com/gab_404"
               >
                 <FaInstagram />
               </a>
             </li>
-            <li class="nav-item">
+            <li className="nav-item">
               <a
-                class="nav-link"
+                className="nav-link"
                 target="_blank"
                 href="https://www.github.com/gabrielecastellani"
               >
@@ -68,8 +68,8 @@ export default function Intro() {
               </a>
             </li>
 
-            <li class="nav-item">
-              <a class="nav-link" href="/About">
+            <li className="nav-item">
+              <a className="nav-link" href="/About">
                 About
               </a>
             </li>
