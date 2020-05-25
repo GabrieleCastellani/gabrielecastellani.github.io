@@ -1,6 +1,5 @@
 import React from "react"
 import { Link, StaticQuery } from "gatsby"
-import { rhythm, scale } from "../utils/typography"
 import ProfilePageHeader from "./ProfilePageHeader"
 import IndexNavbar from "./IndexNavbar"
 var slugify = require("slugify")
