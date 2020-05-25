@@ -12,6 +12,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 const TagsPage = ({
+  location,
   data: {
     allMarkdownRemark: { group },
     site: {

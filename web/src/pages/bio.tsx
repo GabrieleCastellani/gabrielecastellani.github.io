@@ -12,6 +12,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 const BioPage = ({
+  location,
   data: {
     site: {
       siteMetadata: { title },
