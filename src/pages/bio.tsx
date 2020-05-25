@@ -29,6 +29,7 @@ const BioPage = ({
       <p>
         <img
           style={{ marginRight: "10px", marginBottom: "10px", float: "left" }}
+          src={require("../../static/GabLow.jpg")}
         />
         Gabriele Castellani is Technical Evangelist Management at Microsoft. His
         background spans Web Development, Enterprise Software Architecture,
