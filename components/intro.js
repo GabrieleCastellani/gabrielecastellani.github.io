@@ -10,7 +10,7 @@ import {
 export default function Intro() {
   return (
     <>
-      <nav className="navbar sticky-top  navbar-expand-md navbar-light  bg-light">
+      <nav className="navbar   navbar-expand-md navbar-light  bg-light">
         <div className="navbar-collapse" id="collapsingNavbar">
           <ul className="navbar-nav">
             <li className="nav-item">
@@ -19,16 +19,16 @@ export default function Intro() {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/archive">
+              <a className="nav-link" href="/Archive">
                 Archive
               </a>
             </li>
 
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <a className="nav-link" href="#myAlert">
                 Links
               </a>
-            </li>
+            </li> */}
           </ul>
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
